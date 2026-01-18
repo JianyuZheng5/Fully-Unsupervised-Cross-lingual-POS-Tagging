@@ -19,8 +19,8 @@ Follow the steps outlined in [Eskander et al.'s work](https://github.com/rnd2110
 Use the ```calibrate.py``` script to calibrate the POS-tagged results of each target language's words from the four source languages.
 
 
-
-
+## Step4: Training a neural POS tagger for the target language
+Follow the "Training and Testing the POS model" step outlined in [Eskander et al.'s work](https://github.com/rnd2110/unsupervised-cross-lingual-POS-tagging), to train the POS taggers for the target languages.
 
 
 
