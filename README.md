@@ -11,7 +11,7 @@ Use [Lample et al.'s work](https://github.com/facebookresearch/UnsupervisedMT) t
 After completing the training of the UNMT systems, use the corpus in the ```Europarl corpus for UNMT (100k sentences)``` folder to translate the source language sentences into target language sentences.
 
 
-## Step2: Generating the training instances for the target language
+## Step2: Generating the training instances for the target languages
 Follow the steps outlined in [Eskander et al.'s work](https://github.com/rnd2110/unsupervised-cross-lingual-POS-tagging), including ```Producing the Alignments```, ```Tagging the Source```, and ```Annotation Projection``` to generate the instances for training POS taggers in the target languages.
 
 
