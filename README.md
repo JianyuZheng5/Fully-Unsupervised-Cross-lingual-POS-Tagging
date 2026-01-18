@@ -16,7 +16,7 @@ Follow the steps outlined in [Eskander et al.'s work](https://github.com/rnd2110
 
 
 ## Step3: Calibrating the annotation results through the multi-source projection technique
-Use the ```calibrate.py``` script to calibrate the POS-tagged results of each target language's words from the four source languages.
+Use the ```calibrate.py``` script to calibrate the POS-tagged results of words in each target language side.
 
 
 ## Step4: Training a neural POS tagger for the target language
