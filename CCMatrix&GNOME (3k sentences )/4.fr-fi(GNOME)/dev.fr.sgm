@@ -1,0 +1,3000 @@
+%s h %s min %s
+« %s » : %s
+Diviser la piste manuellement
+Drapeaux du compilateur Java :
+%s sur la réservestockslot hint
+Création de la somme de contrôle
+Prend en charge l'affichage des pochettes d'albums
+Erreur de mise à jour de {0}
+Options de conflits
+La largeur de la fenêtre principale.
+Mode aléatoire _désactivé
+Ne pas afficher l'interface utilisateur, quelles que soient les autres options
+_Modifier l'extension
+Texte indiquant à l'utilisateur ce qu'il doit saisir dans le champ
+Opérations d'exécution
+Utiliser des espaces pour l'indentation des parenthèses
+Erreur lors de la synchronisation
+Modifier la station
+Extraire la branche après sa création (checkout)
+Estimation de la taille
+Indique s'il faut afficher la barre de menus.
+Sélectionner les composants graphiques dans l'espace de travail
+La cible ne peut pas être supprimée
+Ces informations seront gravées sur le disque en utilisant la technologie CD-Text. Elles peuvent être lues et affichées par certains lecteurs de CD.
+Taille d'affichage
+Interfaces du greffon à implémenter
+Copie d'une piste audio
+Enregistrer une vidéo
+Un nom de groupe ne peut contenir que des caractères alphanumériques ainsi que les caractères « #$:%+,-.=@^_`~/ »
+Enregistrer les modifications du projet actuel avant de le fermer ?
+Un outil portant le même nom existe déjà.
+Nombre de résultats
+Projet Web Python utilisant l'architecture Web Django
+Si vrai, un retardateur est affiché à la prise de photo
+Une erreur interne est survenue
+Trames (1 seconde = 75 trames)
+Licence publique générale (GPL)
+Description du projet :
+Il n'y a pas assez d'espace disponible sur le disque
+Le format de l'image disque n'a pas pu être identifié
+Passe la révision actuelle
+Veuillez insérer un CD ou un DVD enregistrable si vous ne souhaitez pas écrire dans un fichier image.
+Le CD de données a été gravé avec succès
+Insérer l'extrait de code dans l'éditeur à la position actuelle du curseur
+Afficher la pochette de l'_album
+L'enregistrement de pistes audio sur un disque réinscriptible n'est pas conseillé.
+_Tout sélectionner
+Affiche les paramètres de la fonction du cadre actuel
+Activer l'indentation intelligente
+Affiche le navigateur d'artistes/d'albums au-dessus de la liste des morceaux
+Créer un fichier d'interface GtkBuilder
+100 %
+Le journal de la session ne peut pas être affiché.
+Remplissage de la base de données des symboles…
+Artistes de l'album de com_pilation :
+Lit l'élément précédent
+Description XML de l'interface utilisateur
+Plus petit que " + Catalog.GetString("Higher than " + Catalog.GetString("Lower or equal than
+Artiste, album ou titre
+Téléchargement du fichier MD5
+Annuler la sortie
+Fichier dans lequel le modèle traité sera écrit
+Basculer vers la branche sélectionnée
+Réinitialiser la disposition de la zone d'ancrage des composants graphiques
+Nécessite la bibliothèque SDL_mixer
+_Créer une pochette
+À propos du solitaire FreeCell
+Veuillez ajouter des morceaux.
+Continue ou suspend l'exécution du programme
+Le fichier n'est pas un fichier .desktop valide
+Enregistrer cette adresse et fermer la fenêtre ?
+Le projet « %s » n'existe pas
+Sélectionnez les branches à supprimer
+Ne soufflez jamais dans l'oreille d'un chien
+Ferme Brasero
+Mettre en surbrillance les avertissements et les erreurs de construction dans l'éditeur
+Recommence la partie
+Ouvrir dans l'éditeur
+Greffon gestionnaire de projets pour Anjuta.
+Navigateur en haut
+Écriture de la piste %02i
+Enregistre le message
+La copie n°%i a été gravée avec succès.
+Enlevez les deux
+un emplacement vide dans les fondations
+Modifier la liste de lecture intelligente
+%s est distribué dans l'espoir qu'il puisse être utile mais SANS AUCUNE GARANTIE ; sans même une garantie implicite de VALEUR MARCHANDE ou d'ADÉQUATION À UN BESOIN PARTICULIER. Voir la Licence Publique Générale GNU pour plus d'informations.
+Exécutez '%s --help' pour afficher la liste des options disponibles en ligne de commande.
+Régénérer le projet
+Cliquez sur le bouton Copier un disque dans la fenêtre principale ou choisissez ProjetNouveau projetCopier un disque.
+Git : publication (push) en cours…
+Nécessite SDL_ttf :
+_Tout enregistrer
+Nom manquant
+Erreur lors du chargement d'outils externes
+{0}de{1} {2} {0}publié le{1} {3}
+Aucun avertissement
+Favoris récents
+Déplacez le deux de trèfle à côté de l'as de trèfle.
+Python générique (automake)
+Course de 200 mètres
+Créer le fichier en-tête correspondant
+Visiter la page d'accueil du podcast
+Chinois traditionnel
+Propriétés de %s
+Site Web de Brasero
+Nouveau dossier %i
+La chemin « %s » ne pointe pas vers une boîte aux lettres valide.
+Tours restants : ~a
+Recherche de disques disponibles
+Importe un projet autotools existant dans Anjuta
+Tous les artistes de l'album ({0})
+sur un emplacement vide de tableau
+Nouveau fichier %d
+L'ensemble du projet
+Utiliser un programme externe depuis Anjuta
+Nom de la valeur :
+Opérations de journal Git
+Concevoir et imprimer des pochettes pour les CD
+Veuillez ajouter des fichiers au projet.
+Impossible d'ouvrir le fichier « %s » (%s)
+Site web de BillReminder
+Ouvrir un document _récent
+Imprimer les informations de débogage relatives au connecteur dans la console :
+Aperçu de la plate-forme
+Enregistrer le fichier sous
+Colonne %i
+Fonction exécutée
+Veuillez ajouter des morceaux au projet.
+Greffon prenant en charge JS
+Va à l'historique précédent
+Arrêt total de la lecture
+Utiliser des tabulations pour l'indentation
+É_jecter après la gravure
+Propriétés du projet
+_Suspendre le programme
+Déplacez ~a sur la dame de trèfle.
+Description du greffon :
+Espace de nommage « %s » incorrect à la ligne %d, colonne %d
+Impossible d'écrire les données (%s)
+Impossible de compiler « %s » : aucune règle de compilation n'est définie pour ce type de fichier.
+Veuillez insérer un DVD enregistrable.
+Options de gravure d'une image
+Ajoute des fichiers à l'index
+LE PRÉSENT DOCUMENT ET SES VERSIONS MODIFIÉES SONT FOURNIS SELON LES TERMES DE LA LICENCE DE DOCUMENTATION LIBRE GNU SACHANT QUE :
+Ouvre tous les replis de code dans l'éditeur
+Second chemin :
+Démarre la gravure du contenu sélectionné
+Le remplacer supprimera son contenu.
+Commenter/Décommenter par b_oîte
+Aucun exécutable pour ce fichier.
+Masque les tâches dont l'échéance est dépassée
+Brasero — Nouveau projet vidéo
+_Tout supprimer
+Détails du module :
+huit de pique
+Démarrage de %s
+Des tâches importantes sont en cours d'exécution
+Diff de style « patch »
+General Public License (GPL) Lesser General Public License (LGPL) Pas de licence
+Préparation de la session de débogage…
+Applique les réglages communs des champs pour ce morceau à tous les morceaux sélectionnés dans cet éditeur
+Permettre à Banshee d'essayer de détecter automatiquement le nombre de BPM pour ce morceau
+Créer un projet video
+Champ non valide dans la commande
+Supprimer les espaces en fin de ligne lors de l'enregistrement du fichier
+{0} dB
+Le disque dans « %s » doit être rechargé.
+huit de cœur
+Cette version de genisoimage n'est pas prise en charge
+Copie locale des fichiers
+Utiliser « Tab » pour indenter
+Chemin distant ou non valide (seuls les chemins locaux sont pris en charge)
+Voulez-vous vraiment recharger « %s » ? Les modifications non enregistrées seront perdues.
+Un test d'intégrité de données va démarrer dès qu'un disque aura été inséré.
+Si vous n'avez pas d'agrafeuse, une agrafe et une règle devraient suffire
+Mode direct alternatif
+Mise à jour _automatique
+Répertoire racine si aucun projet n'est ouvert :
+Rechercher de nouveaux épisodes
+Cette fonction n'est pas implémentée pour les composants graphiques de classe « %s »
+Le système de diffusion est désactivé pour entretien, veuillez essayer à nouveau plus tard.
+Restaure les fichiers sélectionnés
+Sélection des modifications à annuler :
+Git : fusion terminée.
+Trier les listes de lecture par
+Agencement _vertical
+Saisissez un URL
+Adresse hors plage
+Sélection d'un répertoire
+Simulation de gravure du DVD vidéo
+Sélectionner un fichier de reformateur structurel
+_Compiler (%s)
+Nom de la règle :
+Coupe la sélection
+Importer les notes du morceau
+Options de la classe :
+Va au signet suivant dans le fichier
+Le champ « %s » est obligatoire. Veuillez le remplir.
+Créer un VCD
+Nécessite SDL_image :
+Java générique compilé avec gcj
+Aucune révision sélectionnée
+Héritage de la classe parente :
+Police pour les caractères à largeur fixe, comme pour les exemples de code.
+Impossible d'importer le CD
+Fichiers diff
+Le (S)VCD a été gravé avec succès
+Sélectionnez un jeu
+Voulez-vous vraiment supprimer tous les points d'arrêts ?
+Le disque dans « %s » est vide.
+_Construire le module
+A_nnuler le projet
+Supprime des branches
+Affiche l'aide
+Artiste de l'album
+Impossible de graver le CD
+_Vérifier le disque…
+Insérer dans le tampon
+Impossible de copier le CD audio
+_Rechercher dans l'aide
+Aucun projet chargé
+R_echercher et remplacer…
+Ajoute un nouveau fichier/répertoire à l'arborescence Subversion
+Recharge le fichier actuel
+Ajouter une nouvelle boîte aux lettres de type MH
+Nom de l'extrait de code :
+piocheslot type
+Il est facile de prendre des photos avec effets spéciaux. Il suffit de cliquer sur le bouton Effets et de cliquer sur les effets désirés comme décrit à la section . Les effets que vous avez sélectionnés devraient maintenant être appliqués sur l'entrée de votre webcam. Cliquez à nouveau sur le bouton des effets pour retourner à la vue normale.
+Créer des pistes _DTS
+Similaire à
+Voulez-vous graver au-delà de la capacité annoncée du disque ?
+Tolérance sur le chronométrage pour l'appui du bouton (en ms)
+Afficher les marqueurs
+Un ou plusieurs éléments GStreamer sont manquants :
+Supprimer la réserve (stash) sélectionnée
+Affiche l'état d'un fichier ou d'un répertoire
+Rechercher le _précédent
+Ouvrir un projet
+Désactive tous les points d'arrêt
+Le fichier que vous tentez d'ouvrir contient une suite d'octets non valide.
+Contrôlez votre installation de gstreamer
+Ouvre le dossier qui contient l'élément sélectionné
+Mode bavard
+Cliquez ici pour importer son contenu
+Saisissez le chemin de la copie de travail.
+Gestionnaire de fichiers pour les projets et les fichiers uniques
+Incohérence de taille
+Aucun objet existant à coller.
+Utiliser la révision/étiquette :
+_Dossiers à importer :
+Démarrage lent
+Clé non définie
+Disque Blu-ray inscriptible
+Impossible d'ajouter les fichiers source
+C_hoisir des fichiers
+Créer une file d'attente pour les pistes dans une liste de lecture ad-hoc ou laisser le DJ automatique prendre la main.
+Enregistrer et se connecter
+Taille de la fenêtre (largeur et hauteur).
+Ouvre un fichier
+Reconstruction de la base de données iPod...
+Fonctions/variables membres
+Fonction d'enregistrement
+Si vous le souhaitez, vous pouvez sélectionner plusieurs effets. Par exemple, si vous sélectionnez Hulk et Kung-Fu, la vidéo va être transformée pour avoir un ton vert et afficher une image répétée.
+Ferme le projet
+Téléchargement de la pochette
+Voulez-vous vraiment mettre toutes les photos et les vidéos à la corbeille ?
+De gauche à droite
+Espacement visible
+Analyse de « %s »
+Le fichier source est déjà dans la cible indiquée
+Taux minimum de remplissage du tampon du lecteur (en %%) (voir le manuel de cdrecord) :
+Morceaux importés cette semaine
+Saute le correctif actuel de la série
+Graver l'image directement _sans l'enregistrer sur le disque dur
+Convertit les caractères de fin de ligne au format le plus utilisé dans le fichier
+Commande terminée pour une raison inconnue
+Un autre programme est actuellement le lecteur multimédia par défaut. Souhaitez-vous que Banshee soit le lecteur par défaut ?
+Délai d'attente expiré lors de la recherche dans Internet Archive
+Fichier protégé par gestion des droits numériques (GDN)
+Utiliser des informations personnalisées sur l'auteur :
+Importer le projet
+par artiste
+dix de pique
+Méthode utilisée pour diviser la piste
+Rétablit le mouvement annulé
+L'image a été créée avec succès
+Type d'image disque :
+Installer des thèmes de cartes...
+Mettre à jour les podcasts<control><shift>U
+Afficher la description du greffon
+Pour afficher la liste des greffons disponibles, choisissez ÉditionGreffons. Les greffons que vous pouvez utiliser sont les suivants :
+En-tête de colonne de tableau accessible
+Paramètres du programme…
+Pas de correspondances.
+Par défaut, les résultats d'analyse affichent chaque sous-dossier comme un secteur d'anneau, couvrant un angle proportionnel à la taille du dossier apparenté. Les sous-dossiers sont affichés dans des couleurs différentes, comme des couches supplémentaires autour de l'anneau intérieur.
+Un fichier nommé « %s » ne peut pas être écrit : %s. Vérifiez que vous disposez des permissions en écriture sur le répertoire du projet.
+Met en commentaire de type bloc le texte sélectionné
+Aligner à droite
+Choisir une liste de lecture
+Content Type : %s
+Bug Buddy n'a pas pu accéder au lien « %s »
+CVS : soumission de fichiers/répertoires (commit)
+La nouvelle licence BSD, voir les fichiers COPYING et NOTICE pour les détails.
+Sélection d'un fichier image
+Ajouter au dépôt
+%d %%Not Applicable
+Signer cette étiquette
+Les branches doivent être complètement fusionnées
+Attacher au processus
+Ne _pas diviser
+8card symbol
+Préférez-vous le café ou le thé ? À vous de choisir.
+Opérations du débogueur
+Distribuez une carte
+Impossible de se connecter au partage de musique
+Extraire les fichiers (checkout)
+six de trèfle
+Affiche ou masque le navigateur d'artistes/d'albums
+au moins
+Document suivant
+Distribuez une carte depuis le paquet
+Indique s'il faut afficher un aperçu des fichiers. Si l'option est active, un aperçu des fichiers sera affiché.
+Met le texte sélectionné en majuscules
+Impossible de créer un tampon : commande annulée
+Lancer l'éditeur
+Modifie les propriétés du point d'arrêt
+Adapte automatiquement (normalise) le volume de lecture pour les morceaux intégrant des données ReplayGain.
+Choisissez une commande
+Enlever le fichier
+L'image a été gravée sur CD avec succès
+Projets récents :
+Une autre copie sera effectuée dès que vous aurez inséré un nouveau disque inscriptible. Si vous ne souhaitez pas créer de nouvelle copie, cliquez sur « Annuler ».
+par note
+neuf de carreau
+Impossible d'analyser le projet (le projet est ouvert mais il n'y aura pas de vue du projet) %s : %s
+Tous les livres
+Impossible de créer l'élément source
+Créer un rapport
+%s n'a pas d'interface texte
+Commande abandonnée
+Aucun déplacement possible. Annulez ou recommencez.
+Analyseur d'utilisation des disques
+Nom du _module :
+Convertit les caractères de fin de ligne au format UNIX (LF)
+Écriture sur le disque...
+Ajoute la prise en charge de l'internationalisation au projet afin qu'il puisse être traduit dans différentes langues
+Modifier le commit précédent
+Le lecteur est occupé
+Hauteur de fenêtre
+Réception de %ld Kio
+Opérations contextuelles de Subversion
+Erreur lors de la copie des messages : %s
+Tout remplacer
+Est utilisé pour notifier que l'en-tête de la rangée du tableau a changé
+cliquer sur le bouton « Ajouter » pour afficher la fenêtre de sélection ;
+URL de rapport d'anomalie :
+Aucun signet paramétré
+Bascule au document précédent
+Brasero — Nouveau projet audio
+Si la piste actuelle est en cours de lecture depuis plus de 4 secondes recommence au début, sinon continue comme précédemment
+La variable %(var)s du fichier « %(file)s » ne contient pas de référence à cette langue.
+Trop de fils sélectionnables
+Téléchargements, mois écoulé :
+Créer une étiquette
+demander à l'exécution
+Le fichier est vide
+Changer de branche/étiquette
+Soumet (« commit ») les modifications dans l'arborescence CVS
+_Masquer les chemins
+Marquer comme nouveau
+Ajoute des chemins supplémentaires vers les sources
+Message _suivant
+Importer %s
+Tâches à effectuer aujourd'hui
+Vous recherchez un sept.
+Erreur : la touche de déclenchement ne peut contenir que des caractères alphanumériques et le caractère « _ » !
+Attachement au processus : %d…
+Banshee a été réduit dans la zone de notification. Utilisez l'option Quitter pour fermer le programme.
+_Afficher les options de recherche avancées
+Va à la page suivante
+La suppression des doublons a échoué : %s
+Projet de greffon Anjuta qui utilise l'architecture libanjuta
+Saisissez le nom de l'auteur du commit
+Augmenter l'épaisseur de la ligne
+Fichiers objets supplémentaires pour cette cible.
+Ajoute une nouvelle cible au projet
+Aller à la position
+Afficher les options pour la bibliothèque de médias de Brasero
+Définir la propriété du signal
+Le programme « %s » n'est pas installé. Installez-le puis redémarrez Anjuta.
+Nécessite la bibliothèque SDL_image
+Démarrer à l'intérieur
+Pas de lecture
+Masquer les para_mètres des processus
+Valeur accessible
+Compléter automatiquement les balises XML/HTML fermantes
+l'élément interactif %s n'est pas actionnable
+Trouvez la photo ou la vidéo que vous voulez supprimer dans le flux d'images au bas de la fenêtre Cheese.
+_Ignorer le fichier
+Le disque doit être rechargé avant la gravure
+Description accessible
+Installe l'ensemble du projet
+Erreur lors du changement des permissions du fichier exporté : %s
+Assistant de nouveau projet
+Synchronisation lente
+Impossible d'éjecter le disque dans « %s »
+Dessiner un trait sous les lignes repliées
+Informations sur le tableau
+Pour retourner à la prévisualisation de votre webcam, cliquez de nouveau sur le bouton Effets. La fenêtre des effets disparaît et vous retournez à l'affichage normal.
+Le dernier dossier parcouru lors de la recherche d'images à graver
+Ajouter une _cible...
+Creative Commons
+Gestionnaire de langages
+Afficher les options pour l'interrogation du morceau en cours
+Déplacez ~a sur le deux de carreau.
+Étiquettes des boutons de barre d'outils :
+Indique s'il faut utiliser l'option « --driver generic-mmc-raw » avec cdrdao
+Le fichier « %s » existe déjà. Souhaitez-vous le remplacer ?
+%s (application)
+Activer la complétion du code
+Vitesse estimée du lecteur :
+Greffon prenant en charge Vala, ajoute la complétion du code.
+Manquant : %s
+Dcard symbol
+Définit tous les genres à cette valeur
+Ignorer le chargement d'un fichier gtkrc personnalisé ({0}) s'il existe
+Vérifier périodiquement les nouveaux épisodes
+Ne pas afficher le logo de démarrage
+Mise en forme du texte de l'éditeur
+Affiche les différences entre votre copie locale et l'arborescence
+Environnement de développement intégré
+_Voir le journal…
+Projet Glade « %s » enregistré
+Graver des données sur un CD ou un DVD.
+Choisissez la licence du code
+Déplacez le dix de trèfle à côté du neuf de trèfle.
+Démarre immédiatement la gravure.
+Dans la fenêtre principale, cliquez sur le projet que vous voulez ouvrir, sous Projets récents.
+_Mettre à jour les noms de fichiers et de dossiers
+Ouvre un projet de données et ajoute les URI indiqués dans la ligne de commande
+Nouveau _dossier
+Gravure de l'image sur le DVD
+Afficher le titre du greffon
+Mode avec perte
+Copie du DVD de données
+Afficher la version et quitte
+Démarre le débogueur et s'attache à un programme en cours d'exécution
+_Tout activer
+Un projet générique GTKmm (C++)
+Git : rebasage
+Interrompre la gravure pourrait rendre le disque inutilisable.
+Programme détaché
+Vous devez connecter deux Chronopics
+Synchroniser toutes les _valeurs de champ
+Commit à annuler :
+Options de gravure du disque
+Un projet générique Xlib
+Impossible de trouver AutoGen version 5. Veuillez l'installer. Vous pouvez le téléchargé sur le site officiel http://autogen.sourceforge.net.
+Ce commit conclut une fusion échouée (utiliser -i)
+Sélectionnez l'objet à déboguer
+Aucune idée de l'endroit où se trouve la référence aux langues vraiment utilisées (DOC_LINGUAS), demandez au mainteneur du module.
+Le gestionnaire de greffons utilisable pour gérer les greffons
+Synchronisation en cours. Voulez-vous l'annuler ?
+Anjuta n'a pas pu déterminer automatiquement le codage du fichier que vous souhaitez ouvrir.
+Rem_placer les liens symboliques
+175 %
+Position de la marge droite en caractères
+Hauteur minimale
+Importation {0} sur {1}
+Ajoute des fichiers au projet
+Sélection d'un répertoire de construction
+Le Roi Albert
+Pas de nouvelle donne
+Lit l'élément en cours
+_Envoyer les messages en attente
+Vous êtes « IN », SAUTEZ dès que vous êtes prêt !
+Crée une branche
+Août 2008
+Signaux du noyau
+Le fichier « %s » existe déjà. Voulez-vous le remplacer par celui que vous enregistrez ?
+Initialisation du lecteur
+Largeur naturelle
+Emplacement personnalisé
+Veuillez ne sélectionner qu'un seul morceau.
+Indique s'il faut démarrer en mode large
+Un nouveau disque à enregistrer sera nécessaire une fois que la source actuellement dans le lecteur aura été copiée.
+Signet _précédent
+Capacités du périphérique non prises en charge
+Déplacez ~a vers une fondation vide.
+Indique s'il faut activer la suppression immédiate
+en-tête de colonne de tableau
+Grave le disque
+Soumettre les modifications (commit)
+Supprime le texte sélectionné de l'éditeur
+Suspend la lecture de l'élément en cours
+Récupération du format et de la taille de l'image
+Préférences de la recherche
+Coupe le texte sélectionné et le place dans le presse-papiers
+Indique si la fenêtre principale doit démarrer maximisée.
+Est utilisé pour notifier que la légende du tableau a changé
+L'activation du greffon JHBuild a échoué : %s
+Marquer comme impayée
+Disque n°
+Reprend la lecture de ce livre audio
+Publie (push) les modifications vers un dépôt distant
+_Ajouter une station...
+Paramètres d'affichage de l'éditeur
+Afficher la colonne _Destinataire plutôt qu'Émetteur
+La hauteur de la fenêtre principale.
+Greffons installés
+Contient le chemin absolu du répertoire qui a été consulté en dernier pour la recherche d'images à graver
+Ajouter un fichier _source
+Commande interrompue par l'utilisateur
+%s dans %s
+Le jeu des boulangers
+Choisissez les fichiers ou répertoires à supprimer :
+Le contenu du projet a été modifié depuis qu'il a été enregistré.
+_Installer le projet
+Affiche ou non les numéros de ligne dans la marge
+Créateur de la station :
+Cette version de mkisofs n'est pas prise en charge
+Drapeaux du compilateur gcj (ahead-of-time)
+_Impayées uniquement
+Il reste quelques fichiers à graver
+Drapeaux du compilateur Fortran :
+Ajouter le système « gtk-doc » :
+Tampon actuel
+Copie du fichier
+Diviser cette piste chaqueSplit track every
+Activer la sortie de débogage de Mono.Addins
+Voulez-vous vraiment diviser la piste ?
+Voulez-vous rechercher les fichiers audio dans le répertoire ?
+Annule la commande de construction
+Affiche ou masque la barre d'outils
+_Importer un texte d'apprentissage...
+Police de caractères à chasse fixe
+Grep :Author" means search for commits whose author matches the given grep expression. "Grep
+Détection du nombre de BPM
+Avez-vous lu l'aide ?
+Réinitialiser l'arborescence
+Dit « au revoir » au débogueur
+Impossible de récupérer le tampon texte pour l'impression
+Convertit les caractères de fin de ligne au format DOS (CR/LF)
+Le fichier n'est pas local : %s
+Copie du disque
+Cliquez sur des éléments pour les sélectionner
+Disque vidéo (%s)
+Enlevez les sept
+élément de menu avec bouton radio
+Imprime le document actuel
+Enlevez la reine de pique.
+Connexion au compte Last.fm
+_Redémarrer le livre audio
+Rechercher votre musique
+Nouveau fichier vide
+Quelle devanture MP3 Amazon utiliser par défaut.
+Suppression des fichiers ou répertoires
+Le fichier « %s » est en lecture seule ! Désirez-vous l'éditer quand même ?
+URL non valide
+Ne pas enregistrer
+Cette année
+Le projet n'existe pas ou le chemin n'est pas valide
+quatre de carreau
+Indique si cdrecord doit être utilisé avec l'option « -immed ». À utiliser avec précaution (si activée) car il s'agit d'un contournement pour résoudre des problèmes présents sur certains modèles de graveurs ou configurations particulières.
+L'application %s s'est arrêtée brutalement. Nous récupérons actuellement les informations relatives à ce problème afin de les envoyer aux développeurs pour qu'ils puissent corriger le problème.
+L'adresse du service résolu
+Gravure du CD de données
+Il reste quelques vidéos à graver
+Un greffon de système de gestion de révisions
+Somme de contrôle d'image
+La position Y de la fenêtre principale.
+Impossible d'ouvrir le fichier « %s »
+Tous les fichiersdisc
+_Mettre à la corbeille
+Effets sélectionnés
+Temps minimal d’exécution en secondes
+Numéroter les fichiers selon un modèle
+Sous-titre {0}
+Intervalle d'enregistrement de la session en minutes
+Menu surgissant de la branche
+Aucune caméra détectée !
+Nom du composant graphique
+Erreur de récupération du message depuis le serveur IMAP : %s
+Temps total : %lu secondes
+Moteur de gravure préféré
+cadre interne
+Mettre la sélection en minuscules
+Adresse du flux
+Il n'y a aucune piste à graver
+Choisissez Créer un SVCD pour créer un Super Video CD.
+Mettre en surbrillance la ligne actuelle
+Erreur réseau lors de la mise à jour de {0}
+Internet Archive, une association 501(c)(3), construit une bibliothèque digitale de sites internet et d'autres objets culturels en format numérique. Comme les bibliothèques classiques, permet l'accès gratuit aux chercheurs, historiens, écoliers et au public.
+Si vous choisissez de créer un nouveau projet vide, la sélection des fichiers sera abandonnée.
+Manuel de l'enregistreur de sons
+Déplacez ~a sur le roi de cœur.
+Compare l'arborescence locale avec le dépôt
+Voulez-vous créer un CD audio avec des pistes DTS ?
+Nom de la méthode :
+_Afficher les notifications
+InsérerInsertInsert" [Entry] "at the beginning
+Impossible d'exécuter « %s » (en utilisant le shell « %s »)
+Fichier %s ignoré : déjà existant
+Ce service n'existe pas.
+Impossible de créer le pipeline de codage
+Exécuter « _autogen.sh »...
+Manuel d'Anjuta
+quatre de cœur
+Ajouter à l'inspecteur
+Emplacement du fichier image
+Déplacez une carte ou un ensemble de cartes sur un emplacement libre
+Voulez-vous vraiment quitter ?
+Commande terminée avec l'état %d
+Git : étiquette « %s » créée.
+Erreur lors de l'actualisation
+Assurez-vous que le codec approprié est installé
+Afficher la colonne « catégorie »
+L'ajout de pistes audio à un CD n'est pas conseillé.
+Vous recherchez un six.
+Effacer à nou_veau
+Analyse un dossier
+Windows Media Audio
+« %s » était attendu, reçu « %s » à la ligne %d, colonne %d
+Annule le dernier mouvement
+Se déconnecter de Last.fm
+Ajuste le contraste de l'image provenant de l'appareil photo
+Sélectionnez un dépôt distant vers lequel publier.
+Assistant d'importation pour Amarok, Rhythmbox et iTunes
+Voulez-vous poursuivre malgré cette mise en garde ?
+Copie d'une piste de données
+T_oujours Remplacer
+Programme terminé
+Récupération de l'état…
+Greffons favoris
+Section du manuel :
+iTunes® 7 a introduit de nouveaux problèmes de compatibilité et ne marche actuellement qu'avec d'autres clients iTunes® 7. Plus aucun client tiers peut se connecter à des partages de musique iTunes®. C'est une limitation intentionnelle d'Apple dans iTunes® 7 et nous nous excusons pour ce malheureux désagrément.
+Le disque dans le lecteur contient des données.
+Déplacez ~a vers un emplacement vide.
+Suppression d'une photo ou d'une vidéo
+Sélectionnez le répertoire où le correctif doit être appliqué.
+Manuel de glChess
+Longueur de la piste :
+Consulter les pages d'API
+Aucun fichier sélectionné
+Fans de
+_Fermer le fichier
+Subversion s'exécute. Veuillez patienter jusqu'à ce qu'il termine.
+Hauteur Naturelle
+Comptez à rebours à partir de trois avant que la photo soit prise.
+Voulez-vous vraiment supprimer la variable « %s » ?
+Déplacez le cinq de pique à côté du quatre de pique.
+Dé-présélectionner (unstage)
+Impossible d'exécuter la commande « %s ».
+Couleurs et polices
+{0} a rencontré une erreur fatale
+_Nouvelle vue...
+Pouce et poche
+Nécessite la version SDL :
+L'emplacement sélectionné pour accueillir l'image ne dispose pas de suffisamment d'espace libre pour l'image du disque
+Nettoie le module associé au fichier actuel
+Copie ce CD audio
+Mettre à jour automatiquement les symboles sans enregistrer le fichier
+Affiche toutes les variables globales et statiques du programme
+Mettre dans un ordre aléatoire les morceaux de la file d'attente de lecture
+Mélangez les cartes à nouveau
+Supprimer la sélection
+Choisir une profondeur de 1 pour un démarrage rapide, cela reporte l'examen de certains répertoires. Pour voir une arborescence plus importante au démarrage, augmenter cette profondeur.
+Couleur du _texte
+A_nnuler les modifications
+Sélectionnez les éléments à enregistrer :
+{0} par {1}
+Quittant : %s
+Installer les paquets manquants
+Requête optionnelle
+Options de l'application
+Lit l'élément sélectionné
+Le nom du fichier source contient
+Impossible d'initialiser la bibliothèque libburn
+Copier les genres
+Démarrer la lecture
+Livres audio et poésie
+Faible complexité
+Fichier diagramme Dia
+Impossible de trouver un greffon de débogage pour le fichier de type MIME %s
+Il n'est possible de vérifier qu'une seule piste à la fois
+Effets sui_vants
+La disposition pour le tableau de bord du haut
+Importer _automatiquement les CD audio lors de leur insertion
+Internet Archive : {0}
+A_jouter au fichier…
+Propriétés inconnues
+Inspecte ou évalue une expression ou une variable
+Enregistre les modifications non soumises sans les soumettre
+Va au morceau en cours de lecture
+Version « %s » du fichier desktop non reconnue
+Utiliser un message de journal personnalisé :
+Brasero est un logiciel de gravure de CD-RW et de DVD-RW conçu pour être facile à utiliser bien que fournissant tous les outils nécessaires à la gravure.
+Utiliser wodim pour graver les CD et les DVD
+Modifié : %s
+Rechercher le précédent
+Saisissez l'URL du nouveau canal
+Le fichier « %s » a été supprimé sur le disque. Voulez-vous le fermer ?
+Nom du fichier sélectionné, complet sans l'extension, dans le greffon gestionnaire de projets
+Peak Power")+ " CMJ (Lewis) (" + Catalog.GetString("body weight") + "+" + Catalog.GetString("extra weight") + ")*9.81*SQRT(2*9,81* " + Catalog.GetString("height") + "(m))
+Veuillez saisir vos informations de compte Last.fm.
+fondationslot type
+Page d'accueil avec la plupart des actions courantes.
+Impossible de lancer un terminal pour le débogage.
+Impossible d'obtenir le chemin du fichier local
+Nombre des morceaux _suivants à afficher
+Nom du périphérique
+200 %
+Masque les sous-titres
+Même couleur
+Janvier 2009
+signe « = » manquant dans le paramètre de l'option
+Aucune connexion réseau disponible
+L'éditeur par défaut basé sur GtkSourceView
+Nouvelle liste de lecture intelligente
+Zoom arrière : diminue la taille de la police
+Définir à vrai pour déclencher le flash pendant la prise d'une photo
+Basculer en mode vidéo
+Aucun fichier ou projet actuellement ouvert.
+Recherche de symbole
+_Conserver l'extension actuelle
+_Basculer le repli actuel
+Renommage de fichiers
+Informations sur le projet Django
+Carte de base : Dame
+Police de Dasher
+Interruption du processus
+Impossible de lancer l'URL
+Choisissez un greffon à activer
+Déposer un fichier ou saisir un emplacement ici
+Ajouter une tâche
+_Tout répéter
+Courses, fond
+Grave, efface et formate des CD et DVD
+Chemin vers la commande « cvs »
+Veuillez insérer un CD enregistrable.
+Assurez-vous qu'un autre programme ne l'utilise pas
+Odessa est un meilleur jeu. Vraiment.
+_Télécharger les pochettes
+Différence avec la précédente
+La version de « %s » est trop ancienne
+Impossible de trouver la sortie audio. Il se peut que vous deviez installer des greffons GStreamer supplémentaires, ou sélectionner une autre sortie audio dans le sélecteur de systèmes multimédia.9:05:02:%Id%dlong time format
+Impossible de créer le pilote d'extraction de CD.
+_Détecteur d'événements
+Impossible de trouver un fichier de somme de contrôle sur le disque
+Préparation de la synchronisation...
+Subversion : basculement terminé.
+Ne pas suivre les étiquettes
+%s [options] -h --help Affiche cette aide -V --version Affiche la version -v --verbose Active le mode verbeux
+_Quitter le plein écran
+Compile le fichier actuel de l'éditeur
+Nombre de morceaux
+Coordonnée Y de l'acteur
+Enlever de la liste de lecture
+Un seul fichier est sélectionné (« %s »). C'est une image de disque et son contenu peut être gravé
+_Enlever tous les points d'arrêt
+Le nombre de photos à prendre pendant une seule rafale.
+Crée une nouvelle liste de lecture
+Tuer le programme
+Afficher la console SQL
+Remplacer la sélectionto pop up a dialog
+Le château assiégé
+Activer l'option « -immed » (voir le manuel de cdrecord)
+« %s » : chargement
+Restaurer l'agencement de menu par défaut
+Choisissez un greffon dans la liste
+Aisleriot ne peut pas trouver la dernière partie que vous avez jouée.
+Nouveau dossier
+Résout les conflits dans votre répertoire de travail.
+Laisser le disque _ouvert afin d'ajouter d'autres fichiers plus tard
+Nom de la classe du greffon
+Créé aux États-Unis
+Les écrans d'ordinateur ne peuvent pas vous aider à synthétiser la vitamine D -- mais la lumière du soleil le peut...
+Nombre (non trié)
+Affichage de l'aide
+Créer de nouveaux répertoires
+Impossible de charger l'image.
+Choisir une imageDisc Image
+Configurer le projet
+Impossible de créer le greffon file d'attente
+Analyse des fichiers vidéo
+Synchroniser vos photos Zoto
+Utilisé avec l'option « -immed » de cdrecord
+Expression régulière non valide : « %s » : %s
+La position X de la fenêtre principale.
+_Vérifier l'intégrité…
+Veuillez consulter l'aide pour plus d'informations.
+« %s » ne semble pas être une boîte aux lettres valide.
+Indiquez l'_emplacement pour la création de la cible :
+Choisissez un greffon pour ouvrir %s.
+WAV + PCM est un format sans perte qui contient de l'audio brut modulé (PCM) sans compression.
+Impossible de lire les informations sur le fichier%s", "This file is too big. Unable to allocate memory.
+Trié par sujet
+Ajouter un _groupe…
+Ouverture de %s
+_Voir le journal...
+Utiliser la police du thème
+Arrêter l'opération
+L'emplacement du flux n'a pas été trouvé
+Impossible de créer la piste libburn
+Propriétés de {0}
+Une erreur inconnue est survenue.
+Valide jusqu'à :
+Informations générales du projet
+Veuillez remplir le champ : « %s »
+Préférences de Subversion
+Sélectionner le format :
+E_ffacer la sélection
+Informations du morceau pour la piste %02i
+Normalisation des pistes
+Vous devriez avoir reçu une copie de la Licence Publique Générale GNU avec ce programme ; si ce n'est pas le cas, consultez .slot type
+Codages supportés
+Éjection du disque
+Efface les signets
+Courses simples
+Préfixe et type GObject :
+Veuillez sélectionner une autre image.
+Renseignez un titre de station
+_Implémentation d'étiquette
+Opérations d'édition de l'éditeur
+dix de carreau
+Numéro (non trié)
+50 %
+Accerciser ne peut pas voir les applications sur votre bureau. Vous devez activer l'accessibilité du bureau pour corriger ce problème. Voulez-vous l'activer maintenant ?
+Propriétés générales de la classe
+Ajouté : %s
+Bibliothèque de gravure de médias de Brasero
+Simulation de la gravure du disque vidéo
+Bibliothèque partagée (libtool)
+Démarrage du programme
+Greffon Anjuta
+Cliquez sur le bouton (Aucun) sous l'option mentionnée ci-dessus et choisissez un fichier MD5 possédant habituellement l'extension .md5.
+Options de gravure à utiliser
+Le processus « %s » s'est terminé avec un code d'erreur (%i)
+« %s » ne peut pas être lu
+La couleur et l'opacité de la bordure de la surbrillance.
+Marqueurs de marge visibles
+Non activé
+Commande en cours d'exécution : %s…
+Position du partage horizontal de la fenêtre principale
+Arrêter la surveillance SQL
+Ferme tous les replis de code dans l'éditeur
+Direction de recherche :
+L'interface DBus de F-Spot fonctionne en mode lecture seule
+Le service des préférences est introuvable.
+Erreur lors de la lecture du DVD vidéo (%s)
+Fin du morceau :
+Titre de l'applet :
+Impossible de lancer le jeu « %s »
+Annulation de modifications
+Activer l'option « -immed » (voir le manuel de wodim)
+Ce sont les greffons que vous avez sélectionnés lorsque Anjuta vous l'a proposé. La suppression des greffons favoris permet à Anjuta de vous demander à nouveau de choisir des greffons.
+Ajouter une nouvelle station de radio ou liste de lecture internet
+Quand vous cherchez une phrase, ajoutez des guillemets. Par exemple, "Il y a des dragons"
+_Sélectionner un fichier à ajouter…
+Faire une copie de la base de données
+Impossible d'ajouter les paquets
+La lecture de « %s » a échoué : les greffons obligatoires suivants sont manquants : %s
+Impossible d'ouvrir le DVD vidéo
+« %s » ne peut pas écrire.
+Se désabonner et supprimer
+Affiche un aperçu pour les vidéos, les fichiers audio et les images
+Supprime un fichier/répertoire de l'arborescence Subversion
+Définit les artistes de toutes les pistes à cette valeur
+Convertir les EOL en CR
+Recherche et affiche tout résultat dans la fenêtre de l'assistant
+Avertissement : le système d'alerte BillReminder n'est pas lancé ! Vous devez le démarrer pour recevoir les notifications.
+Liste de toutes les langues pour lesquelles il existe une équipe de traduction.
+Informations supplémentaires sur les morceaux
+Impossible d'enregistrer les associations car la racine du projet n'est pas définie
+Non défini
+Chercher de l'aide sur le mot actuel dans l'éditeur
+Commenter/Décommenter par _bloc
+Type : %s (%s)
+Manuel de Eye of GNOME
+Le chemin vers le nœud du périphérique qui pointe sur l'appareil photo, par exemple /dev/video0
+Modifier les informations de la piste (début, fin, auteur...)
+Activer l'option « -immed » avec cdrecord
+Correction effectuée
+_Copier le chemin dans le presse-papiers
+Écouter la station {0}Fans of" or "Similar to
+Synchroniser vos contacts
+Note : les changements prendront effet à la déconnexion.
+Seulement _ajouter
+Lecture des clés du DVD
+Le délai du retardateur avant la prise d'une photo, en secondes
+Coordonnée X de l'acteur
+Détachement du processus…
+Animations et dessins animés
+Impossible de créer le répertoire de configuration personnel de Dia
+Numéros de ligne
+Temps restant estimé : %02i:%02i:%02i
+Horodater les nouveaux fichiers
+Afficher la boîte de dialogue d'importation de média
+Gère les extensions pour ajouter de nouvelles fonctions à Banshee
+Mode complet
+Nom de la variable à observer
+Les CD-RW audio ne sont pas toujours lisibles sur les anciens lecteurs CD.
+Choisir un effet
+Gravure de l'image sur le disque
+Des données sensibles peuvent être présentes dans les informations de débogage. Veuillez donc examiner les détails ci-dessous si vous craignez d'envoyer des mots de passe ou d'autres informations sensibles.
+AisleRiot fournit un système basé sur les règles du solitaire et permet de jouer à de nombreuses parties différentes.
+Reconstruire la base de données iPod...
+Bruno Brouard <annoa\.b\@gmail\.com>, 2008-2009 Claude Paroz <claude\@2xlibre\.net>, 2008-2009
+Ouvrir une liste de tâches
+%s audio dans %s
+un_BAR_une_BAR_la_BAR_le_BAR_les, The
+Insérez un CD-RW ou un DVD-RW vierge dans votre lecteur.
+Le programme a reçu le signal %s (%s)
+Faites votre propre critique
+Nécessite la bibliothèque SDL_gfx
+À propos de Solitaire
+Élément accessible sélectionné
+Une erreur est survenue durant la gravure.
+Le fichier d'aide « %s.%s » est introuvable
+Ce programme est distribué dans l'espoir qu'il sera utile, mais SANS AUCUNE GARANTIE ; sans même une garantie implicite de COMMERCIABILITÉ ou DE CONFORMITÉ À UNE UTILISATION PARTICULIÈRE. Voir la Licence Publique Générale GNU pour plus de détails.
+Contraste de l'image
+Exécute à partir du curseur
+Quitter le mode plein écran et retourner au mode fenêtré
+%s de données dans %s
+_Ajouter des fichiers
+L'image du CD a été créée avec succès
+Options pour la copie des disques
+GNOME 3.0 (ancienne stable)
+Charge le dernier projet non gravé et non enregistré
+Afficher la marge droite
+Avance d'un pas en entrant dans la fonction
+_Résoudre les conflits…
+Actualiser l'arborescence du gestionnaire de projet
+Le produit indiqué n'existe pas ou a été renommé. Veuillez mettre à jour vers la dernière version.
+Rejoindre Last.fm
+Lacunes placées aléatoirement à la redistribution
+La plupart des noms utilisés par les entreprises pour distinguer leurs produits et services sont des marques déposées. Lorsque ces noms apparaissent dans la documentation GNOME et que les membres du projet de Documentation GNOME sont informés de l'existence de ces marques déposées, soit ces noms entiers, soit leur première lettre est en majuscule.
+FACE AVANTDisc Image
+Options du greffon %s
+La fusion de données est impossible avec ce disque
+Écriture des informations CD-Text
+Tout mettre à jour
+Ajoute un point d'arrêt
+Rechercher vos livres audio
+Débit variable
+Saisissez un nom de branche.
+Manuel du moniteur d'adaptation de fréquence du processeur
+Se connecter à Last.fm
+Voulez-vous vraiment conserver l'extension actuelle pour le nom de l'image de disque ?
+Simplifie l'interface en cours de lecture en masquant la liste des sources et plus encore
+Bibliothèque utilitaire de Brasero
+Suppression de la sélection sur {0}
+CVS : mise à jour de fichiers/répertoires
+Ferme tous les fichiers
+Convertit n'importe quel fichier de musique au format utilisé par les CD audio
+Greffon débogueur javascript
+Site Web de Cheese
+CHEMIN VERS IMAGE
+Supprimé : %s
+Sélectionnez les fichiers que vous voulez restaurer et cliquez sur le bouton « Restaurer »
+Actions contextuelles du gestionnaire de projet
+Se connecte à une cible de débogage distante
+Enlever la configuration
+Enlever de la bibliothèque
+Signe le message en utilisant GPG
+_Afficher l'état
+Aucune description
+Désactiver la grille album
+_Construire le projet
+Impossible de signer le message
+_Enregistrer le rapport d'anomalie
+Rafraichir l'ordre aléatoire pour les morceaux de la file d'attente de lecture
+Erreur d'écriture « %s »
+Ne pas charger la dernière session au démarrage
+Afficher les marqueurs de lignes
+Nouvelle phrase
+Laisser le disque ouvert pour pouvoir ajouter une session de données plus tard
+Tout ac_tiver
+Cela ne semble pas être un projet Brasero valide
+Vous recherchez un roi.
+Un format audio Open Source efficace et rapide qui fournit un codage sans perte et de grande qualité avec une large gamme de dynamique.
+Impossible d'exécuter : %s.
+Impossible de créer l'élément sink
+Impossible de diviser plus d'un morceau à la fois
+Impossible de trouver un terminal : utilisation de xterm même s'il se peut qu'il ne fonctionne pas
+Indiquez l'_emplacement pour la création du dossier :
+Envoyer cette note par courriel
+Visiter la page de votre profil Last.fm
+Éléments de la classe
+Basculer le point d'arrêt
+Dasher est une application de saisie prédictive de texte
+Greffon pour garder une trace de plusieurs langages de programmation
+Le processus d'identification a été annulé
+Mode track non valide
+Modifie un enregistrement
+Mademoiselle Jeanne
+Sélectionner le signal de l'athlète {0} au cours de cette session.
+Pierre Slamich <pierre\.slamich\@gmail\.com>, 2007. Robert-André Mauchin <zebob\.m\@pengzone\.org>, 2007-2008. Stéphane Raimbault <stephane\.raimbault\@gmail\.com>, 2008. Bruno Brouard <annoa\.b\@gmail\.com>, 2008. Jonathan Ernst <jonathan\@ernstfamily\.ch>, 2009. Pablo Martin-Gomez <pablo\.martin\-gomez\@laposte\.net>, 2010.
+Ne pas ouvrir le dernier projet et fichiers au démarrage
+Le tombeau de Napoléon
+Rechercher cet artiste sur Wikipédia
+Développer des applications dans un environnement intégré
+Délai pour le premier bouton BAS
+Importation d'un fichier OPML
+Pensez à déplacer une carte vers un emplacement vide
+_Enregistrer une vidéo
+Exclure les liens symboliques _brisés
+Insérer une numérotation au début
+Syntaxe non valide dans les paramètres « %s ». Veuillez saisir une valeur de la forme « <entier>,<entier>,<entier> ».
+Affiche ou masque la barre d'état
+Jouer à plusieurs jeux de solitaire différents
+Modifier comme un script
+Ajouter une ligne « signed off by » (signé par)
+Supprime un dépôt distant
+_Ouvrir le dossier
+Il y a des diagrammes auto-sauvegardés. Choisissez ceux que vous souhaitez récupérer.
+Obtention des détails depuis Internet Archive
+Nouveau groupe
+Greffon de gestion de débogage.
+L'écran principal de Cheese prend en charge deux agencements différents pour le moment. L'agencement par défaut est celui présenté sur la figure ci-dessous : l'image prévisualisée est au centre et la bande des vignettes est en dessous.
+Plus de place disponible sur le périphérique
+_Refaire « %s »
+Se souvenir du choix
+Enlevez les trois
+Afficher les informations de version
+Nouveau projet _audio
+Actualise cette liste de lecture intelligente triée au hasard
+À propos des greffons _externes
+Votre _nom réel :
+Rechercher le _suivant
+L'onglet qui est sélectionné : « content » (contenu) ou « search » (recherche).
+Choisissez un fichier
+Définit tous les titres d'album à cette valeur
+Une couleur
+Nom du fichier sélectionné, complet sans l'extension, dans le greffon gestionnaire de fichiers
+Voulez-vous rechercher les fichiers vidéo dans le répertoire ?
+Ouvre un fichier récent
+La fermeture de Banshee va annuler toutes les tâches en cours d'exécution. Elles ne seront pas automatiquement relancées au prochain lancement de Banshee.
+L'option --unlink-tempfile nécessite un paramètre --include.
+Partie suivante du message
+Va à l'accolade correspondante
+Créer des séries de correctifs
+Exécuter dans un terminal
+Si vous n'enregistrez pas, les modifications seront définitivement perdues.
+Impossible d'ouvrir « %s ». Le débogueur ne peut démarrer.
+Quand tous les fichiers ont été ajoutés, cliquez sur Graver.
+Sélection des fichiers à marquer comme résolus :
+Déplacez une carte vers les fondations
+Aller au morceau suivant et modifier son titre
+_Enregistrer le journal
+Cliquez pour débuter la recherche
+Refaites une distribution
+Effacer la file d'attente de lecture à la fermeture du programme
+Supprimer du _disque
+Dossier IMAP distant
+Déplacez ~a sur le huit de carreau.
+Nombre de photos en mode rafale.
+Veuillez le sélectionner manuellement
+Nouveau projet _vidéo
+Répète la commande de recherche précédente
+La fin de la piste sera complétée.
+Avant de commencer la gravure, il est possible de modifier certaines options de gravure.
+en-tête de colonne
+Cliquez sur Propriétés pour ouvrir la boîte de dialogue Propriétés concernant le graveur (voir pour plus d'informations).
+Le programme « %s » ne possède pas les permissions d'exécution
+Greffon Devhelp pour Anjuta.
+Veuillez patienter durant le chargement du projet.
+Déplacez le deux de cœur à côté de l'as de cœur.
+Voulez-vous vraiment retirer l'élément « %s » du projet ?
+Copie le message
+Interruption du programme
+Voir la révision sélectionnée
+État maximisé de la fenêtre principale
+Créer des CD et des DVD
+Enregistrer les _métadonnées dans les fichiers
+Le type de somme de contrôle utilisé pour les fichiers
+Drapeaux du préprocesseur C :
+Graver en tant que _données
+Git : branche distante « %s » ajoutée.
+Recherche avancée dans la bibliothèque
+I_nsérer un silence
+Distribuez de nouvelles cartes du paquet
+_Marqueurs en marge
+Objet légende de tableau accessible
+Importation d'un contact
+Dimensions de la vidéo :
+L'image du DVD a été créée avec succès
+Déplacez le trois de cœur à côté du deux de cœur.
+_Site Web d'Anjuta
+Ouvrir dans une nouvelle fenêtre
+Partage vertical
+Position fixe de l'acteur sur l'axe X
+Subversion : comparaison terminée.
+Détails de l'épisode
+%s : %s
+Affiche le morceau suivant
+Scripts shell
+Choisissez les fichiers ou répertoires à ajouter :
+Configuration des paquets externes
+Cliquez ici pour graver tous les morceaux dans des pistes normales
+Options de l'interface utilisateur
+Choisissez Créer un VCD pour créer un Vidéo CD.
+_Ouvrir tous les replis
+Musique et arts
+pièce %s incluse
+Analyse_r à nouveau
+Drapeaux Lex/Flex :
+%s (bibliothèque)
+_Simuler avant de graver
+Ajouter les données récupérées
+Si vous commencez une gravure sans CD ou DVD dans le graveur, Brasero crée, sur le disque dur, un fichier image que vous pourrez graver plus tard.
+Tout sélectionner
+Ne plus afficher cet avertissement
+Réserve restante :
+Réserve %i.diff
+Affiche la documentation des API pour le mot à l'emplacement du curseur
+l'index %s dans le parent ne correspond pas à l'index fils
+Nom du greffon
+Shell Anjuta
+Chemin racine du projet
+Joindre un fichier
+Aucun périphérique détecté
+Copier les albums
+Affiche le mappage des bibliothèques partagées
+Valide l'accessibilité d'une application
+Afficher les cartes avec le thème « %s »
+Nom du paquet :
+Grave le contenu sur un CD ou un DVD
+Le débogueur est associé au programme. Voulez-vous vraiment l'arrêter ?No such file or directory
+impossible d'obtenir les vitesses
+Trié par ordre alphabétique
+Java générique (automake)
+Aucun moteur de lecture n'a été trouvé. Assurez-vous que Banshee a été correctement installé.
+Exporte une liste de lecture
+Analyse ({0} fichiers)...
+Carte de base : Valet
+Sélection du programme à lancer :
+Supprime le(s) morceau(x) sélectionné(s) de cette source
+Ne se connecte pas à une instance existante
+Revenir au mode complet
+Albums les plus populaires par {0}
+Certains morceaux sélectionnés peuvent être gravés au format DTS. Ce type de piste audio offre une meilleure qualité sonore mais n'est lisible que sur certains lecteurs numériques. Note : la normalisation n'est pas appliquée à ce type de piste.
+La cible ne peut pas être créée
+Largeur de la colonne des numéros de ligne en pixels
+Une fois terminé, cliquez sur Valider.
+Ouvrir le guide Miro
+Février 2008
+La recherche de « %s » a atteint le début et a repris à la fin mais aucune nouvelle occurrence n'a été trouvée.
+Le réglage de la station a échoué : {0}
+Chemin complet :
+(sortie)My tools (error)
+_Nettoyer (%s)
+Supprimer les pistes
+CVS : état des fichiers/répertoires
+Préférences d'Anjuta
+Média partagé
+Impossible de créer le répertoire de configuration utilisateur de Dia. Veuillez vérifier que la variable d'environnement HOME pointe vers un répertoire existant.
+Taille de l'indentation de la déclaration en espaces :
+Greffons disponibles
+Importer dans la bibliothèque
+Acard symbol
+Impossible d'ajouter un groupe
+Solde dans la pioche :
+Ajuste le niveau de la luminosité de l'image provenant de la webcam
+Rechercher des données sur votre bureau
+Enlève les vidéos sélectionnées du projet
+Impossible de créer le greffon bpmdetect
+Déconnecté du partage de musique
+Impossible d'ouvrir « %s » en écriture
+Inclure les valeurs par défaut
+Morceaux récemment lus
+Opérations de cadre de pile
+par %s
+Gravure du DVD vidéo
+Listes de lecture intelligentes prédéfinies
+La génération du fichier projet a échoué. Impossible de trouver un modèle de projet approprié à utiliser. Assurez-vous que votre version d'Anjuta est à jour.
+Analyse de médias
+Basculer le point d'arrêt à la position actuelle
+Répertoire racine du projet :
+Cet artiste n'a pas assez de fans pour diffuser une radio.
+Masque les tâches effectuées
+Fans de {0}
+Paramétrages divers de vérification d'orthographe
+Claude Paroz <claude\@2xlibre\.net> Robert-André Mauchin <zebob\.m\@pengzone\.org> Stéphane Raimbault <stephane\.raimbault\@gmail\.com>
+Extension du fichier sélectionné dans le greffon gestionnaire de fichiers
+Aucun projet récent
+Enregistrer _sous…
+Tous les modules
+Aucun disque n'est inséré pour être copié.
+Faut-il renommer les fichiers pour les rendre compatibles Windows ?
+Préparation de la gravure
+Impossible d'exporter la liste de lecture
+Nom du fichier complet sélectionné dans le greffon gestionnaire de fichiers
+Impossible d'ouvrir le fichier : %s
+L'exécution d'autogen a échoué : %s
+Nombre de liens hypertextes accessibles
+Après avoir ajouté une piste, vous pouvez insérer un silence de 2 secondes après celle-ci. Pour insérer un silence, suivez les instructions suivantes :
+Est utilisé pour notifier que la légende du tableau a changé ; cette propriété ne devrait pas être utilisée. La propriété accessible-table-caption-object devrait être utilisée à la place
+Copie locale de « %s »
+Supprimer la liste de lecture intelligente
+Jeu automatique
+Illustration du test et description
+Voulez-vous vraiment supprimer le paquet « %s » ?
+Sont affichés les albums qui devraient probablement être fusionnés. Pour chaque ligne, cliquez sur le titre désiré pour le mettre en gras ou désélectionnez-le pour ne rien faire.
+{0} bits
+Crée une étiquette à cette révision
+Type de projet : %s
+Lire le morceau
+Décalage du bouton extérieur (le deuxième)
+Tous les greffons dont dépend ce greffon, séparés par une virgule. Chaque greffon peut être soit un nom d'interface primaire, soit l'emplacement du greffon (bibliothèque:classe)
+_Alerter avant l'échéance :
+Couleur inconnue
+Télécharger tous les épisodes
+Saisissez le nom que vous désirez donner au disque une fois gravé.
+Exécute le programme sans débogueur
+Enregistrer les étiquettes et autres métadonnées à l'intérieur des fichiers de média pris en charge
+Afficher seulement les messages qui correspondent aux critères
+Compression rapide
+Explorateur d'accessibilité Accerciser
+Transcodage des titres
+Une erreur est survenue lors de l'envoi du signal au processus.
+Un projet générique Java compilé nativement en utilisant le compilateur Java GNU (gcj)
+Écouter et organiser les stations de radio internet.
+Navigateur sur la gauche
+La durée de la piste est nulle
+Le disque dans « %s » n'est pas réinscriptible.
+Local Externe (rsh) Serveur de mot de passe (pserver)
+Incorporer la feuille de style (CSS) par défaut
+Saisissez le type, le titre et l'URL de la station de radio que vous souhaitez ajouter. La description est facultative.
+Soumet une nouvelle question dans les FAQ
+_Aller au livre audio en cours de lecture
+Définit toutes les notes à cette valeur
+_Vider le projet
+Outil pour charger différents fichiers
+Nouvelle session
+Largeur de l'index et du panneau de recherche
+_Reprendre rédaction plus tard
+Dépôt vers lequel pousser (push) :
+Indique s'il faut démarrer en mode plein écran
+Impossible de charger la boîte aux lettres %s
+Colonne par défaut pour le tri :
+Plusieurs artistes
+Ne répète pas la liste de lecture
+Manuel GST de Date et heure
+/Trier les _diagrammes
+Bascule la sensibilité à la casse de la recherche
+composant incorporé
+Couleur de remplissage :
+Gravure du disque de données
+Vous n'avez pas spécifié de fichier de suppressions dans vos paramètres.
+Inspecter l'élément accessible sous la souris
+Aucun silence n'a pu être détecté
+Dérouler les fils de discussion lors de l'ouverture
+Chargement de {0} - {1} sur {2}
+La réciprocité est manquante pour la relation %s
+Reprendre l'examen glb.
+Cela supprimera tous les résultats précédents.
+Bloc actuel
+Pas exécuté
+Compression très haute
+trois de pique
+Préférences du CD audio
+Indiquez les ressources, tels que les chemins, les motifs, les dossiers de courriels et les types d'objets que vous voulez exclure de l'indexation.
+Création de %s… impossible de créer le répertoire
+Panneau de messages existant
+Prise en charge de CD audio
+Utiliser un modèle pour le fichier d'en-tête
+moins de
+Répertoire d'aide introuvable
+Audio Open Source
++{0} dB
+Chaque jour
+Choisissez votre nouveau projet
+Opérations sur les bibliothèques partagées
+Améliorer Banshee en envoyant les données d'utilisation anonymes
+Ouverture de %sMy tools (output)
+Nouvelle cible
+Hauteur par défaut de la fenêtre
+RésistanceBody angle") + " (º)Weight angle") + " (º)
+Envoi du message avec le mode gpg %d
+Naviguer vers la page d'effets suivante
+Renomme le fichier ou le répertoire
+Saisissez une adresse hexadécimale ou choisissez-en une parmi les données
+Annoter cette étiquette
+Activer l'indentation adaptative
+sur « {0} »
+Déplacez ~a sur le quatre de carreau.
+Nombre de _passages :
+Déplacez ~a sur le valet de trèfle.
+Morceaux achetés dans la boutique MP3 Amazon
+Dossier dans lequel créer des correctifs :
+Obtention de nouveaux morceaux pour {0}.
+Secondes en interne
+Ajoute les chansons sélectionnées à la file d'attente de lecture après l'album en cours de lecture
+Ne pas afficher les fichiers non versionnés
+_Installer le module
+Afficher/masquer les traductions archivées
+Arrête la prise de photos
+Ajouter une accolade après la complétion automatique d'un appel de fonction
+Dessiner les contours des boîtes
+Configuration des paquets externes :
+Copier le _disque...
+N'afficher que les greffons activables
+Titre du greffon :
+Ajoute un fichier source à une cible
+Ne pas afficher les documents ouverts
+Indique si l'extension Nautilus doit afficher les informations de débogage
+Chercher les nouveaux épisodes de tous les podcasts
+Exportation d'une photo vers F-Spot
+Réinitialiser à :
+Afficher dans la fenêtre principale
+d MMMM à H:mm
+Nouveau raccourci clavier…
+Rechercher dans l'aide :
+Création d'un nouveau projet
+Externe (rsh)
+Sélectionnez un dossier Scratchbox
+Ne pas afficher les onglets
+Hauteur de fenêtrecard symbol
+Nouvelle association
+Enlevez le dix de carreau.
+Identifiant du message : %s
+Gestionnaire de documents
+Formatage du disque
+Saisissez brasero puis tapez sur la touche Entrée.
+Frédéric Péters <fpeters\@0d\.be>
+300 %
+Utilise le profil actuellement sélectionné dans le terminal GNOME
+Propriétés du dossier
+La valeur de la hauteur de la fenêtre.
+L'URI d'un fichier image à graver (autodétecté)
+Enlevez les neuf
+Une fois que toutes les modifications sont terminées, cliquez sur Valider.
+Options d'interrogation des métadonnées du morceau en cours
+Créer de _nouvelles copies
+Aucun greffon n'est capable de charger d'autres greffons dans %s
+Vérifie l'intégrité des fichiers sur un disque
+Construire l'ensemble du projet
+La position X de la fenêtre de l'assistant.
+_Remplacer le disque
+Copier le disque
+Afficher tous les groupes d'options
+Nouvelle _bibliothèque…
+%s h %s
+Fichier icône utilisé pour le greffon
+Sélection d'une image disque
+Si activé, Cheese disposera d'une fonctionnalité permettant de supprimer immédiatement et sur place un fichier sans qu'il soit déplacé dans la corbeille. Cette fonctionnalité peut être dangereuse, il faut donc l'utiliser avec précaution.
+Un fichier de même nom existe déja dans ce dossier. Si vous le remplacez, son contenu sera écrasé sur le disque à graver.
+Mettre la sélection en maj_uscules
+Inclure la déclaration et l'implémentation (« inline »)
+Nombre de photos en mode rafale
+Impossible d'initialiser libisofs.
+Voulez-vous vraiment modifier cette entrée de journal du %s ?
+Ouvrir _avec
+La correspondance « %s » n'a pas été trouvée. Voulez-vous continuer la recherche à partir du début du fichier ?
+Périphérique inconnu
+le greffon %s a échoué lors de l'enregistrement du type %s
+Examen parallèle du projet et des symboles globaux
+Modifie les commandes de construction pour utiliser scratchbox 1 ou 2
+Bascule l'affichage des onglets de boîte aux lettres
+Les joyeux gordons
+Choisissez un répertoire de travail
+Ouvre un projet vidéo et ajoute les URI indiqués dans la ligne de commande
+Un lecteur et gestionnaire de musique extraordinaire
+Impossible d'ouvrir le flux ou la liste de lecture
+Veuillez ajouter des fichiers.
+Enregistrer la session actuelle
+Options d'importation
+Conversion du fichier toc
+Le fichier « %s » a été supprimé. Voulez-vous abandonner vos modifications et le fermer ?
+Signet _suivant
+« %s » a été supprimé du système de fichiers.
+%s : « %s »
+Impossible de charger le fichier d'interface utilisateur : %s
+Afficher l'angle
+Interface implémentée par le greffon
+Agencement _horizontal
+Désactive la connexion au gestionnaire de sessions
+Fournit la capacité de gestion de documents.
+Fusionne les modifications dans votre copie de travail
+Afficher la fenêtre de recherche en appuyant sur
+Mélanger par _morceau
+La source ne peut pas être ajoutée
+_Grouper par langage
+Supprime la vue actuelle du document
+Avancer pour s_ortir
+Supprimer la station Last.fm
+Supprime des fichiers du dépôt
+Enlever de la file d'attente de lecture
+Option de démarrage non reconnue : %d
+huit de carreau
+Impossible de relier les éléments du pipeline
+Enregistrement de la nouvelle base de données...
+Statistiques des parties jouées
+L'exécutable « %s » n'est pas à jour.
+Huit en dehors
+Une erreur est survenue lors du chargement du projet.
+Choisir des greffons pour Brasero
+Enlevez le trois de pique.
+Ligne actuelle dans l'éditeur
+Windows Media ASX
+Le nom de fichier du thème
+Quitter le mode plein écran
+URL de la source :
+Feuille de style (CSS) personnalisée
+Ajoute une vue supplémentaire au document actuel
+Ignorer les fichiers .cvsrc (recommandé)
+Afficher uniquement les factures payées.
+Afficher la documentation des API
+Problème lors de l'envoi du message, il a été placé dans la boîte d'envoi. Le système tentera à nouveau d'envoyer ce message à moins que vous ne l'effaciez.
+File d'attente de la prévisualisation du système de fichiers
+_Réinitialiser_Restart" is the menu item 'Game->Restart', implies "Restart Game
+Utiliser pkg-config pour ajouter la prise en charge de bibliothèques issues d'autres paquets
+Voulez-vous créer un disque à partir du contenu de l'image ou un disque qui contient l'image elle-même ?
+Définit toutes les informations de copyright à cette valeur
+Gestionnaire de factures
+_Modifier les informations...
+Dans la zone de liste déroulante Sélectionner un disque, choisissez le disque que vous souhaitez effacer.
+L'analyse de la structure XML a échoué
+Appliquer les modifications
+Essayez de déplacer les cartes à partir du bas de la fondation
+Valeur instantanée
+À propos de Devhelp
+Ajoute une bibliothèque à une cible
+{0} par {1} le {2}
+Je ne suis pas sûr
+Supprimer la liste de lecture
+La position Y de la fenêtre de l'assistant.
+Une adresse électronique ou un lien vers une page Web permettant à l'utilisateur de signaler une anomalie. Cela est optionnel.
+Propriétés de la source
+Déplacez ~a sur le trois de pique.
+Valide depuis :
+Type de position
+Indiquez un nom de cible
+Recherche et remplace
+Aucun document n'est actuellement ouvert : commande annulée
+Lancer le programme :
+Créer et enregistrer
+Copier la sélection vers une nouvelle note
+Nom _utilisateur (connexion DN)
+Les suggestions ne sont pas encore implémentées dans ce jeu.
+La boîte aux lettres n'est pas au format mbox.
+Union Square
+Clé de chiffrement :
+Niveau de compression (de 0 = aucun à 10 = maximum) :
+Impossible de trouver « %s » dans le PATH
+Titre de l'albu_m :
+Saisir un nom pour créer un carnet
+Bibliothèque de livres audio
+Affiche le navigateur d'artistes/d'albums sur la gauche de la liste des morceaux
+_Nouvelle partie
+Ajoute un nouveau fichier ou répertoire au CVS
+Copier les fichiers/dossiers
+Erreur lors de l'exécution du générateur de signature %s
+Sélectionnez les parties du messages qui doivent être citées dans la réponse
+Erreur lors de l'ouverture du lien demandé.
+Indique s'il faut afficher ou non la barre d'outils
+Vous n'êtes plus connecté à ce partage de musique
+graver des CD audio à partir de fichiers audio (tels que ogg, flac et mp3) ;
+Repli en marge visible
+Ouvre le projet indiqué
+Propositions contextuelles pour la complétion
+Erreur inconnue
+Notes Backpack
+Tous les éléments
+Fréquence d'échantillonnage :
+Solde dans la pioche : ~a
+Les détails du compte sont nécessaires avant que vous puissiez vous connecter à Last.fm
+Insérer du texte
+Titre inconnu
+Sélectionnez si vous voulez seulement chercher parmi les fichiers images
+La vraie gravure du disque aura lieu dans 10 secondes.
+Déplacez ~a sur l'as de pique.
+Pour exporter une photo vers F-Spot, cherchez la photo que vous souhaitez exporter dans le flux photo, cliquez dessus avec le bouton droit et choisissez Exporter vers F-Spot. F-Spot vous demande alors si vous désirez importer les photos que vous lui avez envoyées.
+Vue du projet créé…
+Pour activer ou désactiver un greffon, cochez la case qui lui correspond dans la colonne Activé.
+Utiliser un fichier md5 externe qui contient la somme de contrôle d'un disque
+Voulez-vous vraiment réinitialiser les préférences à leurs valeurs par défaut ?
+Contrôler Banshee en utilisant Sound Menu.
+Opérations de zoom de l'éditeur
+Chargeur de fichier
+Le projet est trop grand pour le disque, vous devez enlever des fichiers du projet. Cette option peut se révéler utile si vous utilisez des CD-R(W) de 90 ou 100 min. qui ne sont pas reconnus correctement et qui nécessitent donc l'option de gravure en surcapacité. Note : cette option peut provoquer des échecs de gravure.
+Votre _adresse électronique pour ce compte :
+Si vous n'enregistrez pas, toutes les modifications seront perdues.
+Va à la page précédente
+Indique s'il faut afficher les notifications au démarrage.
+Branche : %s
+Importer _de :
+Caractères de _fin de ligne
+Vous devez fournir un nom d'outil.
+Importer des fichiers dans la bibliothèque
+Nom du projet :
+Première loi
+Afficher les informations fournies par Wikipédia sur l'artiste dans le volet contextuel.
+Enregistrement automatique terminé
+Vous recherchez un neuf.
+Permet à de vérifier l'intégrité des données sur les disques après qu'elles aient été gravées. Permet également l'écriture d'un petit fichier qui contient la somme de contrôle MD5 de tous les fichiers sur le disque.
+Subversion : le fichier sera supprimé au prochain commit.
+Piste bannie
+vérifier l'intégrité des disques et des images de disques.
+Dépendances d'extensions :
+Une exception Scheme s'est produite
+Indique s'il faut animer ou non les mouvements de cartes
+Personnaliser et étendre Banshee avec les scripts Boo-language.
+Envoyer au processus
+Continue un « rebase » avec les conflits résolus
+octets dans la file après avoir été libérés par free()
+Décalage du bouton
+{0}par{1}·{2} {0}sur{1}·{3}
+Importer à partir d'un dossier
+Lien sélectionné
+_Analyser le dossier personnel
+Quitte tous les Devhelp en cours
+Indique si Brasero doit filtrer les liens symboliques brisés
+Poursuivre malgré les erreurs
+Propriétés d'arrière-plan
+Soumet un rapport d'anomalie, un correctif ou une requête de fonctionnalité pour Anjuta
+Vieux textes
+Déplacez le six de carreau à côté du cinq de carreau.
+_Aperçu avant impression
+Enregistre le fichier actuel sous un nom différent
+Supprime tous les fichiers du projet
+Copyright %s
+Impossible de déverrouiller « %s »
+Imprimer les numéros de ligne
+Enregistrement des métadonnées dans le fichier
+Afficher la boîte de dialogue des préférences
+Enregistrer le projet comme une liste de lecture PLS
+Impossible d'ouvrir %s : %s
+Codage de caractères inconnu
+Transformation de texte de l'éditeur
+_Type de station :
+Le lecteur est vide
+Le CD a été copié avec succès
+_Nouveau projet
+Dépendances du greffon :
+Spiritualité et religion
+Création de la structure des fichiers
+Subversion : récupération du journal...
+Cliquez pour fermer le panneau latéral
+Désactivation du flash
+Mode unidimensionnel
+Réparer les métadonnées de musique...
+Cellule sélectionnée
+Ajoute un silence de deux secondes après la piste
+A_perçuDisc Image
+Utiliser la technologie burnproof (diminue les risques d'échecs)
+Une liste de greffons qui sont désactivés par défaut
+Saisissez le premier chemin.
+Supprime définitivement les éléments sélectionnés du support de stockage
+Licence publique BSD
+Piste {0}
+Le dossier n'existe pas.
+Confirmez les informations suivantes :
+Analyse de l'iPod...
+Taille du fichier :
+Ajouter des fichiers :
+Erreur en mettant des messages à la corbeille : %s
+Copie du DVD
+Projet incorrect
+Impossible d'analyser l'utilisation du disque.
+Préférences d'Accerciser
+{0}par{1} {2}
+Propriétés des groupe/cible/source
+La durée de la piste est inférieure à six secondes
+_Nouveau_New Game
+Sélectionne la configuration actuelle
+Exporte le fichier en PostScript et quitte
+Le champ « %s » doit débuter par une lettre, un chiffre, un caractère de soulignement ou un séparateur de répertoire ; il doit uniquement contenir des caractères alphanumériques, des séparateurs de répertoire, des tirets, des points ou des soulignés. Veuillez le corriger.
+Dégradé verticalDisc Image
+Voulez-vous vraiment vider l'aperçu des segments ?
+Style de l'indicateur des messages d'erreur :
+%.1f× (B-RD)
+Nouveau sujet
+URI sélectionné dans le greffon gestionnaire de fichiers
+C_onfigurer le projet...
+Distribuez une autre carte
+Graver un CD...
+Cherche un terme dans l'aide
+Ajouter une nouvelle station de radio Last.fmFans of" or "Similar to
+La largeur de la fenêtre principale, en pixels.
+Fusionner un segment sélectionné avec la sélection suivante
+Live Music Archive
+Nouveau projet de _données
+{0}sur{1} {2}
+Tous les fichiers doivent être analysés pour terminer cette opération.
+Dossier du créateur de CD/DVD
+Quelle en est la raison ?
+_Revenir à la disposition d'origine
+Options de gestion de sessions :
+DVD-R double couche
+A_jouter un séparateur de signature
+Installe le module
+Indentation automatique de la ligne actuelle ou de la sélection en fonction des paramètres d'indentation
+« %s » n'est pas un URI valide
+Bug Buddy a rencontré un problème lors de la soumission de votre rapport au serveur de Bugzilla. Les détails concernant cette erreur sont disponibles ci-dessous.
+L'enregistrement automatique a échoué pour %s
+Se connecter au bus système
+- Un calendrier léger avec zoom
+Affiche ou masque les replis de code en marge
+Convertit les caractères de fin de ligne au format Mac OS (CR)
+L'opération est toujours en cours. Voulez-vous vraiment l'arrêter ?
+_Ajouter le fichier
+Ajouter une _cible
+Est utilisé pour notifier que le résumé du tableau a changé
+Jouer à « %s »
+Importe une nouvelle arborescence de sources dans le CVS
+_Aller au morceau en cours de lecture
+Création de « %s »
+Rcard symbol
+Inverser la lecture
+Choisissez les fichiers ou répertoires dont vous souhaitez obtenir le journal :
+Bascule votre copie locale sur une branche ou une étiquette du dépôt
+@@image: 'figures/brasero-main-window.png'; md5=11e5cc148d7c8c8dc0c63e68b2f611f3
+Veuillez signaler cette anomalie aux développeurs.
+Saisissez un nom d'étiquette.
+Onglet sélectionné : « content » ou « search »
+Bloqué : %s
+Création de l'image
+Aucun fichier
+État d'Anjuta
+Ce fichier est trop volumineux. Impossible d'allouer la mémoire.
+Synchroniser vos tâches
+Options du %s :
+Le texte à afficher
+A_jouter au fichier...
+Ajout de la piste {0} sur {1}
+Impossible d'ouvrir la boîte de brouillons : « %s »
+fenêtre de méthode de saisie
+Nouveau fichier, projet et composants de projet.
+Durée de la surbrillance
+Mettre en surbrillance les parenthèses correspondantes
+Description de rangée de tableau accessible
+Greffon Glade pour Anjuta.
+l'élément %s n'a pas de nom ou n'a pas de description
+joker noir
+Le lecteur ne peut pas graver
+Affiche ou non les espaces blancs
+%s sur le tableauwasteslot hint
+Fournit l'intégration MeeGo dont un panneau de média personnalisé.
+Attente d'un verrou fcntl... %d
+Installez manuellement les applications et bibliothèques suivantes, puis essayez à nouveau :
+Module (libtool)
+Saisissez la révision finale.
+Calibrage automatique
+Visite la page Last.fm de ce morceau
+La hauteur de la fenêtre de l'assistant
+Le codec pour lire ce type de média n'est pas disponible
+4card symbol
+Supprime l'enregistrement sélectionné
+Déplacez le sept de carreau à côté du six de carreau.
+Ajoute la prise en charge du C++ au projet afin que les fichiers sources C++ puissent être compilés
+Longueur du silence :
+Impossible d'importer le morceau.
+Données diverses
+Importer de la musique achetée
+Une image n'a pas pu être créée
+%s : génération des héritages...
+Publication des écoutes depuis l'appareil...
+La hauteur de la fenêtre de l'assistant.
+_Recharger le fichier
+Indique l'ID de gestion de sessions
+Régler Last.fm sur {0}.
+Tête du dépôt (head) ; déposez ou saisissez une révision différente ici
+Voulez-vous abandonner la sélection des fichiers ou bien l'ajouter au nouveau projet ?
+Titre du livre
+Le disque dans « %s » n'est pas inscriptible.
+Indique si la barre d'état au bas de la fenêtre principale doit être visible.
+Enlevez la carte de la défausse
+Fermer le fichier
+_Actualiser automatiquement tous les canaux toutes les
+Nom de la classe :
+Commit %s.diff
+Anjuta est incapable de s'attacher à lui-même.
+faux--options foo=VALVAL
+Felix Kaser f.kaser@gmx.net
+Requête de largeur naturelle forcée pour l'acteur
+Analyse des fichiers
+Modifier les catégories
+Déplacez la reine de pique à côté du valet de pique.
+Complétion automatique du mot actuel
+Suppression de la piste {0} sur {1}
+%s : installez-le depuis « %s »
+EN AUCUNE CIRCONSTANCE ET SOUS AUCUNE INTERPRÉTATION DE LA LOI, QU'IL S'AGISSE DE RESPONSABILITÉ CIVILE (Y COMPRIS LA NÉGLIGENCE), CONTRACTUELLE OU AUTRE, L'AUTEUR, LE RÉDACTEUR INITIAL, TOUT PARTICIPANT ET TOUT DISTRIBUTEUR DE CE DOCUMENT OU DE SA VERSION DE MISE À JOUR AINSI QUE TOUT FOURNISSEUR DE QUELQUE PARTIE QUE CE SOIT NE POURRONT ÊTRE TENUS RESPONSABLES À L'ÉGARD DE QUICONQUE POUR TOUT DOMMAGE DIRECT, INDIRECT, PARTICULIER OU ACCIDENTEL DE TOUT TYPE Y COMPRIS, SANS LIMITATION, LES DOMMAGES LIÉS À LA PERTE DE CLIENTÈLE, AUX ARRÊTS DE TRAVAIL, AUX DÉFAILLANCES ET AUX DYSFONCTIONNEMENTS INFORMATIQUES OU TOUT AUTRE DOMMAGE OU PERTE LIÉE À L'UTILISATION DU PRÉSENT DOCUMENT ET DE SES VERSIONS DE MISE À JOUR, ET CE MÊME SI CES PARTIES ONT ÉTÉ INFORMÉES DE LA POSSIBILITÉ DE TELS DOMMAGES.
+Erreur lors de la fermeture du projet : %s
+Copyright (c) Naba Kumar
+Vous recherchez une dame.
+%s : %s d'espace libre
+Enregi_strer l'adresse...
+_Conserver la sélection des fichiers
+La réponse HTTP a retourné le code d'état incorrect %d
+Remplacer du texte
+Erreur inconnue.
+Ajouter une « ) » après la complétion automatique d'un appel de fonction
+CHEMIN DE PÉRIPHÉRIQUE
+une case vide dans le tableau
+_Graver plusieurs disques
+Modifier le point d'arrêt
+Description de colonne de tableau accessible
+double-cliquer sur les fichiers de la fenêtre de sélection ;
+Utiliser la révision :
+Sélectionnez le type de jeu à jouer
+Subversion : ajouter fichier/répertoire
+Damned Lies
+six de cœur
+Brasero - Copie du CD (simulation)
+Démarre automatiquement tous les morceaux mis en attente sur la ligne de commande
+Si jamais vous êtes perdus dans les bois, embrassez un arbre
+Le code d'erreur retourné par Bugzilla n'est pas reconnu. Veuillez rapporter manuellement les informations suivantes dans bugzilla.gnome.org : %s
+_Prendre une photo
+Voulez-vous vraiment supprimer {0} ?
+Répertoire sélectionné dans le greffon gestionnaire de projets
+La bibliothèque iTunes se réfère au dossier de votre musique en tant que « {0} » mais Banshee n'a pas été capable de trouver l'emplacement de ce dossier. Cherchez-le manuellement.
+Couleur pour les adresses non valides ou incomplètes
+Je peux sûrement utiliser une courroie arrière de transmission maintenant...
+Répertoire sélectionné dans le greffon gestionnaire de fichiers
+Ajoute les morceaux sélectionnés à la file d'attente de lecture
+Compile le répertoire
+Définit tous les artistes de l'album de compilation à cette valeur
+Taille des tabulations en espaces :
+Voulez-vous vraiment retirer le raccourci « %s » du projet ?
+Cliquez sur le bouton Enregistrer une vidéo au milieu du panneau inférieur ou appuyez sur la Barre d'espace pour démarrer l'enregistrement de la vidéo.
+Le fichier « %s » existe déjà. Voulez-vous l'écraser ?
+Séparer par type
+Indique s'il faut afficher une alarme avant qu'une facture soit dûe.
+_Diff des modifications non commitées
+_Annuler la commande
+Me laisser choisir quels épisodes télécharger
+Le fichier est binaire
+Veuillez n'ajouter que des fichiers ayant du contenu vidéo
+La cible nouvellement créée ne peut pas être identifiée
+Le fichier « %s » sur le disque est plus récent que le tampon actuel. Voulez-vous le recharger ?
+Le répertoire « %s » du programme n'est pas local
+graver des données sur des CD et des DVD,
+Style d'application (doit être « traditional », « direct », « compose » ou « fullscreen »)--options
+Créer une vidéo DVD ou SVCD.
+Temps total : %02i:%02i:%02i
+Version/étiquette :
+Le délai d'attente du lecteur a expiré
+Bascule l'affichage des guides d'indentation
+Contient le nom du moteur de gravure installé préféré. Il sera utilisé si possible.
+La commande CVS a échoué. Voir ci-dessus pour les détails.
+La prise en charge de la conversion de format de fichiers n'est pas disponible
+Texte à côté des icônes
+Gravure du CD audio
+serbe jekavien
+Analyse d'un dossier
+Enlevez le valet de cœur.
+Type d'accès : URL
+Navigation de l'éditeur
+Vous devriez avoir reçu un exemplaire de la Licence Publique Générale GNU avec ce programme ; si ce n'est pas le cas, écrivez à la Free Software Foundation Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
+Afficher les en-têtes sélectionnés dans les préférences
+Afficher le bouton
+Soft Rock
+Ajouter la prise en charge du C++ :
+Impossible d'atteindre le serveur SMTP. Vérifiez votre connexion internet.
+Parcourir le système de fichiers
+Dans la zone de liste déroulante Couleur, choisissez le type de remplissage à utiliser pour l'arrière-plan.
+_Toujours conserver
+Simulation de la copie du CD
+Avahi est un système qui facilite la découverte de services sur un réseau local via la suite de protocoles mDNS/DNS-SD.
+Rechercher des podcasts
+Mélanger par s_core
+Ce certificat est valide de %s vers %s Empreinte : %s
+CVS : ajout de fichiers/répertoires
+Les fichiers suivants semblent être corrompus :
+Essayez de déplacer les cartes de la pile ailleurs
+Sélectionnez un fichier.
+Chaîne d'option non valide
+Commencer la synchronisation dès que le périphérique est branché ou que les bibliothèques changent.
+Signé le : %s
+Copyright © 2005–{0} Novell, Inc. Copyright © 2005–{1} Others Copyright © 2005 Aaron Bockover
+Activation de compte
+Supprimer cette Note
+Exporter vers...
+Compacter les replis
+Transcode convertit les fichiers musicaux dans un format adéquat pour les graver sur CD
+Impossible de créer le message XML-RPC.
+ActiverRegister Function
+Installe de nouveaux thèmes de cartes à partir des dépôts de paquets de la distribution
+Propriétés de la cible
+Saisissez un raccourci clavier...
+Suspendre lorsque la souris est en dehors de la fenêtre
+Aucun groupe parent sélectionné
+Choisir le dossier de destination
+Sélectionner tout le message
+Localiser votre fichier « {0} »...
+Gravure du CD
+Impossible de vérifier un dossier exclu !
+Crée la copie 1:1 d'un CD audio ou d'un CD/DVD sur votre disque dur ou sur un autre CD/DVD
+Nombre de photos
+« %s » est introuvable.
+Conduit est une application de synchronisation.
+Débordement de tampon interne
+Erreur du serveur, essayez plus tard.
+Découvrez des podcasts intéressants dans le répertoire des podcasts du guide Miro !
+Impossible de trouver le fichier OPML
+Déplacez ~a vers un emplacement inférieur vide.
+Annuler le commit
+Veuillez insérer un CD enregistrable avec au moins %i Mio d'espace libre.
+Numéro du _disque :
+Activer les boutons pour la correction et le démarrage ou l'arrêt
+CHEMIN VERS POCHETTE
+Simulation de la gravure du CD audio
+Aucun fichier exécutable indiqué.
+Morceaux notés une ou deux étoiles ou fréquemment sautés
+Effacer la rechercher
+Le fichier .po n'est pas valide (msgfmt -vc). Veuillez le corriger et essayer à nouveau.
+Enlevez le roi de pique.
+Le répertoire VIDEO_TS est absent ou non valide
+Enregistrer le fichier
+Ouvrir avec
+Simulation de la gravure du disque de données
+Déposer la nouvelle traduction
+Souligné standard Souligné pattes de mouche Souligné machine à écrire Diagonal Barré
+Impossible d'obtenir la taille du volume
+Prévisualisation du morceau
+Durée de la surbrillance :
+Va au signet précédent dans le fichier
+Adresse électronique pour soumettre des rapports d'anomalie au Bugzilla GNOME. Cette adresse électronique sera utilisée pour vous permettre de suivre l'anomalie que vous avez signalée. Veuillez, si vous avez déjà un compte Bugzilla GNOME, l'utiliser comme votre adresse électronique.
+Saisissez un chemin source.
+Style des indicateurs des message d'avertissement :
+Indique si l'acteur utilise un positionnement fixe
+Autoriser pour Last.fm
+Cette extension permet l'accès au magasin de musique d'Ubuntu One, dirigé par 7digital.
+Importer le CD
+Génération des héritages…
+Fans de :
+GPGME ne prend pas en charge OpenPGP : %s
+Obtenir plus de résultats dans Internet Archive ?
+Étiquette : %s
+Création de %s (avec AutoGen)… %s
+Met en commentaire de type flux le texte sélectionné
+Voulez-vous analyser à nouveau votre dossier personnel ?
+Démarre le débogueur et charge le programme
+Appliquer les fichiers de boîte aux lettres
+Analyser un d_ossier…
+Re_monter au dossier parent
+Indique si Brasero doit filtrer les fichiers cachés. Si l'option est active, Brasero filtre les fichiers cachés.
+Boîte non uniforme
+« %s » est introuvable
+Choisissez une icône
+PID de l'application arrêtée brutalement
+Regarder des DVD, écouter et extraire des CD audio.
+Légende de tableau accessible
+Le programme « %s » n'est pas un fichier local
+Parcourir et écouter de la musique partagée sur votre réseau local.
+Copier les fichiers/dossiers…
+Confiance insuffisante pour le destinataire %s
+Vérifie l'intégrité du disque
+Couleur unie
+Pas d'écriture
+Projets _récents
+Aucun effet trouvé
+Il n'y a pas assez d'espace disponible sur le disque dans « %s ».
+Git : poussage terminé.
+Confirmer la reconstruction de la base de données iPod
+Un greffon de client « Subversion » basé sur libsvn
+Trié par ordre d'utilisation
+Le fichier existe déjà. Voulez-vous l'écraser ?
+Afficher les options pour l'interface utilisateur
+Activer l'effacement rapide par opposition à un effacement complet plus long
+_Processus auquel s'attacher :
+Fournit une source qui diffuse des vidéos intégrées ainsi qu'un mode vidéo plein écran et ses contrôles.
+Se connecter à la cible distante
+Signet accessible sélectionné.
+Impossible d'ouvrir le fichier
+Course de 2000 mètres
+Répéter un s_eul morceau
+Le greffon « %s » empêche sa désactivation
+Exemple de greffon pour Anjuta.
+Voulez vous réellement écraser le fichier : {0}
+Grille dynamique
+La largeur de la fenêtre de l'assistant.
+Impossible de trouver un codeur pour l'extraction.
+Recherche terminée
+Élément inattendu « %s »
+le déchiffrement a échoué
+Ce fichier ne semble pas être une liste de lecture
+Grande salle
+Un processus s'exécute déjà. Voulez-vous le terminer pour attacher le nouveau processus ?
+Crée une nouvelle liste de lecture à partir des morceaux sélectionnés
+gtk-doc est utilisé pour compiler la documentation des API des classes basées sur GObject
+Recherches récentes
+Résultats pour %s
+Amplification des basses
+Définit la note du morceau en cours de lecture (de 0 à 5)
+Indique un fichier contenant la configuration enregistrée
+Veuillez remplacer le disque par un disque réinscriptible contenant des données.
+Poursuivre {0}
+Copie de la piste audio %02d
+Robert-André Mauchin <zebob\.m\@pengzone\.org>, 2008. Bruno Brouard <annoa\.b\@gmail\.com>, 2011. Launchpad Contributions: François Tissandier https://launchpad.net/~baloo Alexandre Franke https://launchpad.net/~afranke Og Maciel https://launchpad.net/~ogmaciel maxime valy https://launchpad.net/~maxime.valy
+A_nnuler le déplacement
+Impossible de créer le pipeline du codeur : {0}
+La fenêtre principale de Brasero
+Définit un agencement vertical
+Gestionnaire de messages
+Morceaux fréquemment écoutés cette semaine
+Ajoute plus de morceaux aléatoires dans la file d'attente de lecture
+Analyse de la piste %02i
+Gravure du disque vidéo
+Si vous choisissez de créer un nouveau projet vide, toutes les modifications seront perdues.
+Me demander quoi faire
+État actuel du lecteur
+Cacher le volet contextuel
+d MMM yyyy
+Enlevez la reine de cœur.
+Importation du CD audio
+Affiche les projets récemment ouverts
+Voulez-vous remplacer « %s » ?
+Le paquet n'est pas examinable
+Charger des sujets d'une autre session
+Déplacez ~a vers un emplacement vide dans un coin.
+La largeur de l'index et du panneau de recherche.
+Julita Inca
+Saisissez l'URL du podcast auquel vous voulez vous abonner.
+Mettre en surbrillance la syntaxe
+_Modifier l'emplacement
+Ouvrir l'emplacement
+Sélection du programme
+Afin d'utiliser tout le potentiel du projet vidéo, vous devez installer tous les greffons de GStreamer : ffmpeg, vcdimager et dvdauthor. Consultez la documentation de votre système d'exploitation pour plus d'informations sur la manière d'installer toutes ces applications.
+Nécessite SDL_net :
+%.1f× (CD)
+Repli de _code en marge
+trois de trèfle
+Nécessite SDL_gfx :
+Ajouter ces statistiques et leur graphe à la fenêtre de rapport
+Déplacez ~a sur le trois de trèfle.
+Actualisation des métadonnées
+Fait un commit de vos modifications dans l'arborescence Subversion
+Aller au point d'arrêt
+Affiche un bouton Ajoutersu" and the "sudossh
+Va au début du bloc actuel
+La validité de l'identifiant de l'utilisateur n'est pas définie.
+Voulez-vous ajouter « %s » qui est un fichier vidéo ?
+Augmenter le grossissement
+Masque les tâches sans échéance
+Exporter la session au format _CSV (feuille de calcul)
+Couleur du texte
+Crée une copie de ce CD ou ce DVD
+Aucun résultat
+Activer la complétion intelligente des accolades
+Impossible de créer une boîte aux lettres de type %s
+Aller à la dé_claration
+Prend en charge les listes de lecture
+_Ajouter au projet
+Opérations du concepteur Glade
+Le système de fichiers sur ce volume ne prend pas en charge les fichiers volumineux (plus de 2 Gio). Cela peut poser problème lors de l'écriture de DVD ou de grandes images.
+Voulez-vous vraiment effacer le disque actuel ?
+Définir à 0 pour MD5, 1 pour SHA1 et 2 pour SHA256
+Joue à un autre jeu
+La création du processus fils « %s » a échoué : %s
+Soumettre votre application à un test d'accessibilité
+Impossible de générer le fichier POT, statistiques interrompues.
+Métadonnées de Nautilus (emblèmes, notes, etc.)
+_Exporter OPML
+Projet PyGTK utilisant automake
+Format principalement utilisé en Europe
+URL du flux :
+Exécution dans un terminal
+Enlève un point d'arrêt
+Va à la fin du bloc courant
+make: quittant le répertoire « %s »
+Les boulangers
+Terminé sur un échec
+Impossible de trouver un moteur de projet valide pour le répertoire indiqué (%s). Choisissez un répertoire différent, ou essayez de mettre à jour Anjuta à une version plus récente.
+Grave l'image d'un CD/DVD sur un disque
+Visitez Internet Archive sur le site archive.org
+A_grandir le texte
+Enlevez le huit de carreau.
+Pas de suggestion disponible.
+Onglet sélectionné, « contenu » ou « recherche »
+Recherche en utilisant des expressions régulières
+Cette valeur affecte la façon dont cet album est trié ; si vous saisissez « Divers artistes » alors l'album est placé parmi les autres albums commençant par « D ».
+Ajouter une station
+_Réinitialiser les fichiers...
+Mettre en surbrillance le dernier évènement
+Ajoutez à la suite dans la ligne ~a.
+Déplacez quelque chose vers un emplacement de tableau vide
+Associe le dernier concepteur et l'éditeur
+Largeur de la fenêtre principale
+L'image n'a pas pu être créée à l'emplacement indiqué
+Modifie les informations des morceaux sélectionnés
+Ajout de fichiers ou répertoires
+Créer _plusieurs copies
+Insérez le CD ou DVD effaçable dans votre lecteur.
+Vider un projet enlève tous les fichiers déjà ajoutés. L'ensemble du travail sera perdu. Notez que les fichiers ne seront pas supprimés de leur propre emplacement, ils ne seront simplement plus listés ici.
+Occurrence _précédente
+Texte seul
+Importer les listes de lecture
+La taille de l'acteur
+Icônes seulement
+emplacement vide dans les fondations
+Affiche ou non les guides d'indentation
+Options du terminal
+Veuillez insérer un disque non protégé contre la copie.
+Voulez-vous remplacer le disque et poursuivre ?
+Un outil graphique pour analyser l'utilisation des disques.
+Style des _cartes
+Choisissez un disque
+Nom de l'artiste
+Impossible d'initialiser la prise en charge de la synthèse vocale
+La source est déjà dans la cible
+Nom du fichier de l'application arrêtée brutalement
+Ouvrir un fichier md5
+Veuillez insérer un CD ou un DVD enregistrable avec au moins %i Mio d'espace libre.
+Style de l'indicateur des messages normaux :
+Nouveaux éléments
+S'abonner aux Podcasts et flux ou télécharger des épisodes.
+Ajouter un _module
+Copie d'écran des effets de Cheese
+Liste des greffons disponibles actuellement trouvés dans les chemins de greffons
+Démo complète
+_Déboguer le programme
+Aucune ressource récemment utilisée trouvée avec l'URI « %s »
+Copie les fichiers/dossiers dans le dépôt
+Taille estimée du projet : %s
+Exécution en cours : %s
+Message suiv./préc.
+Nombre de derniers caractères à afficher :
+Ouvrir une nouvelle fenêtre
+Requête de hauteur minimale forcée pour l'acteur
+Position de la fenêtre
+Informations sur les _paramètres de la fonction
+Flux RSS en provenance de Liferea.
+Disque de données (%s)
+_Abonner aux vérifications de nouveau courrier
+Distribuez une nouvelle carte du paquet
+Met la sélection en minuscules
+Saisissez l'adresse IP et le port du serveur :
+Impossible d'obtenir une partie HTML : %s
+Toutes les années ({0})
+Afficher l'élément
+Verrouille la disposition actuelle de la zone d'ancrage afin que les composants graphiques ne puissent pas être déplacés
+option inconnue, utilisez « --help-options » pour plus d'informations.
+Conçu pour être le successeur du format MP3, AAC permet d'obtenir généralement un son de meilleur qualité que le MP3 à de nombreux débits.
+Affiche le journal d'un fichier ou d'un répertoire
+Active ou non la césure automatique des lignes
+Vous avez sélectionné la sécurité OpenPGP pour ce message.
+Impossible de modifier le script
+Crée un fichier image au lieu de graver
+Le volume n'a pas pu être créé
+Impossible de créer un répertoire (%s)
+Grave et efface les DVD et B-RD
+Déplacez ~a vers un emplacement vide sur les bords.
+Moins récemment lus
+Veuillez remplacer le disque par un DVD enregistrable avec au moins %i Mio d'espace libre.
+Permet à d'harmoniser le niveau sonore des pistes.
+Mettre en attente ce message dans la boîte d'envoi
+- Environnement de développement intégré
+Supprimer de {0}
+Créer des fichiers de sauvegarde
+Sensible à la casse
+Largeur minimale définie
+Programmes manquants : %s.
+Paquets requis :
+Modèle autogen utilisé pour le fichier d'en-tête
+Requête de largeur minimale forcée pour l'acteur
+Historique s_uivant
+Affiche ou non les caractères de fin de ligne
+Informations sur la « structure utilisateur » du _noyau
+Subversion : annulation terminée.
+Impossible d'analyser le fichier make
+Impossible d'ouvrir la base de données « %s ». SQLite a fourni le message d'erreur suivant : %s
+Ajouter à la file d'attente de lecture
+Cliquez sur Graver une image dans la fenêtre principale ou choisissez ProjetNouveau projetGraver une image... .
+Impossible de trouver la fonction d'enregistrement du greffon %s dans le module %s
+75 %
+Indique si l'objet AtkHyperlink est sélectionné
+Recherche la précédente occurrence de la chaîne
+Blondes et brunes
+Aucun disque enregistrable n'est inséré.
+Attacher comme type MIME :
+Si vous fermez sans enregistrer, vos modifications seront perdues.
+Un fichier nommé « %s » existe déjà. Voulez-vous le remplacer ?
+Une liste des greffons qui sont désactivés par défaut.
+Supprimer des photos et des vidéos que vous ne voulez plus garder.
+Le nom du fichier contenant les graphismes des cartes.
+Le codec FLAC (Free Lossless Audio Codec) est un codec Open Source qui compresse sans dégrader la qualité audio.
+par album
+_Afficher le journal
+Supprime le signet
+Brasero — %s (disque audio)
+Chargement de {0}
+Prendre plusieurs photos
+Affiche la documentation des API pour le mot à l'emplacement du curseurDevhelp
+Cliquez sur Projet audio dans la fenêtre principale ou choisissez ProjetNouveau projetNouveau projet audio.
+« %s » n'est pas un dossier valide
+Options d'affichage
+Le nom d'utilisateur Last.fm n'est pas valide ou Banshee n'est pas autorisé à accéder à votre compte.
+non défini
+Impossible d'ouvrir « %s ». %s
+Impossible de récupérer des métadonnées sur le CD.
+Ajouter une nouvelle station de radio
+Impossible de créer un nouveau projet Glade.
+Définir à vrai pour déclencher le flash avant la prise d'une photo
+Enlevez le six de cœur.
+Synchronise la copie locale avec l'arborescence CVS
+Voulez-vous vraiment créer un nouveau projet et annuler celui en cours ?
+Pour faire une vidéo avec Cheese, assurez-vous que le bouton Vidéo a été cliqué.
+Lit le morceau suivant, en recommençant si l'option « répéter » est activée
+Titres des morceaux
+URI de la _licence :
+_Parties récemment jouées
+Recherche circulaire parmi les signets
+Erreur lors de l'ajout d'une nouvelle ébauche de gestionnaire : %s
+Augmente la taille du texte
+Les moins favoris
+Une image du disque a été créée sur votre disque dur. La gravure va débuter dès que vous aurez inséré un disque enregistrable.
+Se déconnecter de eMusic
+Informations sur le cadre _actuel
+Erreur lors de la définition de la valeur : %s
+Le nom de la cible de la bibliothèque partagée doit être de la forme « libxxx.la »
+_Afficher les modificationsDisc Image
+_Utiliser les polices de caractères du système
+En-têtes sélectionnés :
+Impossible d'obtenir l'adresse du lecteur
+L'éditeur de pochettes vous permet de choisir la police, l'alignement et les couleurs de tous les textes et les propriétés de l'arrière-plan des pochettes avant et arrière.
+Mettre à la corbeille
+Plus récemment lus
+Synchroniser deux dossiers
+Triple saut
+Crée un CD ou un DVD qui pourra contenir n'importe quel type de données mais qui ne sera lisible qu'avec un ordinateur
+Mo_difier les signets...
+Démarre l'application d'une série de correctifs
+Lorsqu'un CD audio est inséré, son contenu est automatiquement importé si des métadonnées sont repérées et qu'il n'est pas déjà dans la bibliothèque.
+Chargement du profil...
+Éjection du CD audio...
+Impossible de copier dans le fichier {0}
+Section Nom du disque :
+Foire aux questions d'Anjuta
+La clé d'API utilisée par cette application n'est pas valide.
+Ajouter un _paquet
+%s (%i %% réalisé)
+Installe depuis le répertoire de ce fichier
+_Effacer le disque
+Les stations ne sont accessibles qu'aux abonnés de Last.fm qui ont payé.
+Sélectionnez une tâche avant de la supprimer.
+125 %
+Afficher l'aide des appels
+Arrête l'analyse
+E_nlever des fichiersempty
+L'importation de la dernière session a échoué
+Erreur d'analyse lors de la mise à jour de {0}
+Il n'y a plus d'espace disponible sur le disque
+Tabulations de l'éditeur
+Bloc 10
+Testez si votre webcam fonctionne dans gstreamer-properties. Si elle fonctionne dans ce contexte, mais pas dans Cheese, envoyez un rapport d'anomalie à notre outil de suivi d'anomalies.
+Le correctif a échoué. Consultez les messages d'erreurs. Examinez et supprimez les fichiers rejetés.
+Ajuste le niveau de saturation de l'image provenant de la caméra
+Importer un calendrier
+Ouvrir un fichier MD5
+Cliquez sur le bouton Propriétés pour ouvrir la boîte de dialogue Propriétés du fichier image du disque. Dans la zone de texte Nom, saisissez le nom du fichier image, puis choisissez le type d'image à utiliser à l'aide de la zone de liste déroulante Type d'image.
+_Historique précédent
+Nouvel élé_ment
+Erreur d'authentification durant la mise à jour de {0}
+Distribuez les cartes
+Le fichier d'en-tête de « Face » %s est trop long (%lu octets).
+Numéros des _lignes en marge
+Veuillez éjecter manuellement le disque de « %s ».
+À travers dix
+Graver _plusieurs copies
+Emplacement des fichiers temporaires
+Comparaison de fichiers ou répertoires
+Hauteur de la liste des éléments
+Le répertoire « %s » n'est pas vide. La création d'un nouveau projet peut échouer si certains fichiers ne peuvent être écrits. Souhaitez-vous poursuivre ?
+Gravure du disque
+Prise en charge de MTP Media Player
+Choisissez cette option pour simuler la gravure. La gravure n'est pas réellement réalisée. Si cette opération réussit, Brasero se mettra à graver le disque après une pause de 10 secondes. Pendant cette pause, il affiche une boîte de dialogue qui vous permet d'annuler la gravure en cours. Ceci est utile pour tester la présence de problèmes durant la gravure des disques.
+La couleur et l'opacité du remplissage de la surbrillance.
+_Aller à l'adresse
+Cliquez sur Projet de données dans la fenêtre principale ou choisissez ProjetNouveau projetNouveau projet de données.
+Impossible de se connecter à NetworkManager
+Fichiers corrompus
+Copyright/licence :
+Dans le cas contraire, ils seront invisibles (bien que toujours lisibles).
+Serveur de messagerie : %s
+Ce projet vous permet de prendre un disque existant et de le copier sur un disque vierge ou de créer un fichier image. Pour copier un disque, suivez les instructions suivantes :
+Le nom de la cible de la bibliothèque statique doit être de la forme « libxxx.a »
+Largeur de la photo
+Il n'y a pas de visionneur installé capable d'afficher le dossier.
+Fichier/URL à enlever :
+Garder jusqu'à
+Éditer avec GVim
+Impossible de créer le greffon « filesink »
+Voulez-vous vraiment supprimer l'outil « %s » ?
+Libisofs a signalé une erreur lors de l'ajout de contenu au répertoire « %s » (%x)
+Couleurs alternées
+Essayez de vous reconnecter plus tard
+Indique s'il faut utiliser l'option « -use-the-force-luke=dao » avec growisofs
+_Importer un texte d'apprentissage
+Il n'existe pas à l'emplacement indiqué
+La boîte de dialogue Options de gravure du disque apparaît. Effectuez les modifications souhaitées (voir ).
+La suppression du dossier a échoué. Raison : %s
+CVS : journal des fichiers/répertoires
+Mis à jour : %s
+Voulez-vous vraiment ajouter « %s » à la sélection ?
+Impossible de lire les données (%s)
+Ignorer les parents
+Prend une photo avec une webcam
+Impossible de créer le processus fils « %s » : %s
+Se souvenir du mot de passe
+une réserve vide
+Mauvais paramètre
+Assistant d'importation de projet
+Rétablit la dernière action annulée
+Déplacez ~a sur le huit de trèfle.
+Avant de commencer la gravure, il est possible de modifier certaines propriétés du graveur.
+Impossible d'ouvrir la boîte aux lettres.
+Teinte de la photo
+Nouvelle fenêtre
+Lire ce morceau
+Associer le dernier concepteur et le dernier éditeur
+Fichier de projet Brasero
+Sélection de l'alphabet
+Modifier le sauteur
+Liste des greffons pour ce profil
+Dossier livres audio
+Luminosité de l'image
+Veuillez remplacer le disque par un CD ou un DVD pris en charge.
+Le DVD vidéo a été gravé avec succès
+Enregistrement d'une vidéo
+Enlevez le sept de carreau.
+Message d'erreur à l'impression : %s
+Ajouter la source
+Afficher les options pour le contrôle de la lecture
+Impossible de détecter le type MIME de « %s ». Le débogueur ne peut démarrer.
+Enlever les chemins obsolètes
+Nouvelle liste de lecture _intelligente...
+Ne pas afficher les fichiers cachés
+Impossible d'ouvrir « %s » (%s)
+_Commenter/Décommenter par flux
+« %s » ne s'est pas comporté correctement
+Lors de la réception d'un message pour lequel l'expéditeur a demandé un accusé de réception (MDN), l'envoyer dans les cas suivants :
+Hébergé par %(link)s.
+Greffon de base de données de symboles pour Anjuta.
+Le fichier source doit être à l'intérieur du répertoire du projet
+Mis à jour à « {0} »
+Sélectionnez la _cible pour les nouveaux fichiers source :
+Mettre en surbrillance toutes les correspondances
+Veuillez remplacer le disque par un DVD enregistrable.
+Extension du fichier sélectionné dans le greffon gestionnaire de projets
+Ajouter un point d'arrêt…
+Déplacez ~a vers le tableau.
+Éjecter le disque
+Document externe
+Une seule option peut être indiquée à la fois
+Actions du gestionnaire de projet
+La patience du général
+Ne pas afficher les fichiers binaires (.o, .la, etc.)
+Déplacez le six de trèfle à côté du cinq de trèfle.
+Mis à jour depuis l'extérieur : %s
+Lire tous les morceaux d'un artiste, puis choisir au hasard un autre artiste
+Activer l'option « --driver generic-mmc-raw » (voir le manuel de cdrdao)
+Crée un nouveau projet
+Un effacement rapide est une méthode pour effacer rapidement un disque. Cette méthode est beaucoup plus rapide qu'un effacement complet et elle est suffisante pour permettre au disque d'être gravé à nouveau.
+Exécute « autogen.sh » pour préparer les autotools
+Sélectionner le bloc de _code
+Déplacez ~a sur le cinq de trèfle.
+Analyser le dossier…
+Bibliothèque de médias optiques de Brasero
+Intervalle d'enregistrement des fichiers en minutes
+Gestion des associations
+Est utilisé pour notifier que l'en-tête de la colonne du tableau a changé
+Espace utilisé
+Construction n°%d : %s
+Chemins CLang
+Similaire à :
+Corriger des fichiers/répertoires
+Greffon d'assistant de fichiers Anjuta
+Nom du fichier sélectionné dans le greffon gestionnaire de fichiers
+Christophe Fergeau <christophe\.fergeau\@laposte\.net> Christophe Merlet <redfox\@redfoxcenter\.org> Laurent Richard <laurent\.richard\@lilit\.be> Sebastien Bacher <seb128\@debian\.org> Thierry Moisan <thierryn\@videotron\.ca> Robert-André Mauchin <zebob\.m\@pengzone\.org> Jonathan Ernst <jonathan\@ernstfamily\.ch> Damien Durand <splinux\@fedoraproject\.org> Stéphane Raimbault <stephane\.raimbault\@gmail\.com>
+Site Web de Banshee
+par morceau
+_Fin du bloc
+Conserver toutes les lignes correspondantes
+Utilisé dans la(les) version(s) :
+Description d'un objet, formaté pour être accessible par les aides techniques
+Numéro du disque :
+Expression régulière
+Analyser le d_ossier…
+Dé_marrer l'enregistrement
+Options du courrier
+Indique s'il faut afficher les pictogrammes des marqueurs de lignes
+Impossible de créer les options de lecture
+Afficher les options pour la bibliothèque de gravure de Brasero
+Devhelp — Assistant
+Police de caractères à largeur variable.
+Échec DNS : NOTZONE
+Va à une certaine ligne du fichier
+Largeur de l'acteur
+Indique s'il faut jouer ou non les sons d'événements
+Liste des livres désactivés par l'utilisateur.
+Lit au hasard les morceaux de la liste de lecture
+La disposition pour le tableau de bord du bas.
+Quitte Banshee
+Commence une nouvelle partie
+La session n'a pas pu être importée.
+Erreur lors de l'obtention des détails depuis Internet Archive
+Efface et formate les DVD et B-RD réinscriptibles
+Alerte du serveur IMAP %s : %s
+Ce mois
+%i × %i pixels
+Déplacez le roi de trèfle à côté de la dame de trèfle.
+Vidéos qui n'ont pas encore été lues
+Impossible d'afficher les notifications
+Recherche tous les morceaux de cet artiste
+Enlever les silences
+Impossible d'ouvrir le fichier d'entrée « %s », commande annulée
+%s sur la défausse
+Affiche ou non le repli de code actuel dans l'éditeur
+Un double-clic échange haut/bas — triple clic pour la correction
+Chargement de l'exécutable : %s
+Vérifie l'ensemble du projet
+Sont affichés les genres qui devraient probablement être fusionnés. Pour chaque ligne, cliquez sur le genre désiré pour le mettre en gras ou désélectionnez-le pour ne rien faire.
+La vérification de l'intégrité des données n'a pas pu être effectuée.
+Application : %(appname)s - Version : %(version)s
+Produit ou composant non précisé.
+Prend une photo
+Sélectionnez un paquet
+Signal supprimé
+%s : vide
+Créer des pistes _normales
+message retransmis
+_Recherche circulaire
+élément de liste
+Le chemin sélectionné n'a pas été ajouté. La liste contient des éléments qui l'englobent, les données sont donc déjà indexées.
+Répondre au message actuel
+Aucun fichier filtré
+Grouper par langage
+Importer les téléchargements eMusic dans la bibliothèque
+Titre de la piste pour le tri :
+Résolu : %s
+Niveau de la batterie
+Les fichiers sont actuellement en cours de conversion dans un autre format. Voulez-vous vraiment arrêter cette opération ?
+Mauvaise option de ligne de commande.
+Indiquer une base de données alternative à utiliser
+Reconstruction de la base de données
+Dans la mesure où Cheese utilise le moteur GStreamer, il est fort probable que le problème se situe au niveau de la détection de la webcam par GStreamer (ou que GStreamer lui-même a des problèmes). Cherchez de l'aide en lien avec votre système d'exploitation précis en indiquant le plus de détails possible. Pour Ubuntu, consultez les forums Ubuntu.
+Effacement du disque
+Non connecté à Last.fm.
+Un éditeur alternatif basé sur Scintilla
+Reconstruire la base de données
+Les éléments « name » et « link » doivent être présents dans <sub> à la ligne %d, colonne %d
+Projet de documentation Ubuntu
+Sauter cet élément
+Générateur de la classe
+Conversion du fichier vidéo en MPEG2
+Paramètres en entrée
+Git : récupération du journal...
+Affichage d'une photo ou d'une vidéo que vous avez faite
+Déplacez ~a sur le neuf de cœur.
+Déplacez ~a sur le quatre de trèfle.
+Phil Cowens <pjc51\@srcf\.ucam\.org> Christophe Merlet <redfox\@redfoxcenter\.org> Damien Durand <splinux\@fedoraproject\.org> Jonathan Ernst <jonathan\@ernstfamily\.ch> Benoît Dejean <benoit\@placenet\.org> Samuel Mutel <samuel\.mutel\@free\.fr> Robert-André Mauchin <zebob\.m\@pengzone\.org> Stéphane Raimbault <stephane\.raimbault\@gmail\.com>
+par {0}
+Déplacez ~a sur la dame de carreau.
+Avec les greffons Somme de contrôle de fichier et Somme de contrôle d'image, vous pouvez choisir l'algorithme à utiliser :
+Profil du terminal GNOME à utiliser :
+Les moins fréquemment lus
+Joindre un fichier à l'URI
+Impossible de désactiver le greffon « %s »
+Modifier directement toute votre base de données de configuration
+Brasero — Nouveau fichier image
+l'index parent %(num1)d de l'élément %(rolename)s ne correspond pas à l'index de ligne et de colonne %(num2)d
+Veuillez sélectionner une image disque.
+Projet basé sur Makefile
+Capture d'écran du partage dans Cheese
+libisofs a signalé une erreur lors de l'ajout du fichier « %s »
+Pochette à utiliser
+Fichier POT (%(messages)s — %(words)s) — %(updated)s
+Suppression de Valgrind
+Impossible de démarrer le terminal Gnome.
+Droit debout
+Indique si l'extension Nautilus doit afficher les informations de débogage. Si oui, définir la valeur à « true » (vrai).
+Ces noms devraient être modifiés et tronqués à 64 caractères.
+Taille du papier
+Cartes restantes : ~a
+Assurez-vous que le disque que vous voulez effacer est effaçable. Consultez le boîtier du support pour plus d'informations.
+À propos des greffons tiers d'Anjuta
+en-tête de ligne de tableau
+La partie n'a pas de solution. Annulez ou recommencez.
+Application sélectionnée
+Import depuis {0}Video Library
+Le débogueur est en cours d'exécution. Voulez-vous vraiment l'arrêter ?
+Couleur de bordure de la surbrillance
+Tous les fichiers images
+Essayez de placer les couleurs dans l'ordre qui correspond le plus naturellement au modèle actuel.
+Permet l'ajout ultérieur de fichiers supplémentaires
+Le panneau pour afficher les projets vidéo
+Afficher le _filtre
+Analyser récursivement les points de montage
+Veuillez insérer à nouveau le disque dans le graveur CD/DVD.
+Déplacez ~a vers un emplacement de tableau vide.
+Chargement de l'image mémoire : %s
+Commit précédent
+Inverse les éléments dans la liste des éléments
+_Nouveau menu
+Macros d'Anjuta
+_Graver une image...
+Vérification du disque
+_Nom de la liste de lecture :
+Répondre à _tous...
+Est utilisé pour notifier que la valeur a changé
+Afficher tous les en-têtes des messages
+Aucun disque disponible
+Sortir de la fonction actuelle
+Bruno Brouard <annoa\.b\@gmail\.com>, 2008-2009,2012 Claude Paroz <claude\@2xlibre\.net>, 2008-2010 Yannick Tailliez <ytdispatch\-libre\@yahoo\.com>, 2008 Laurent Coudeur <laurentc\@iol\.ie>, 2009 Luc Pionchon <pionchon\.luc\@gmail\.com>, 2011 Luc Guillemin <luc\.guillemin\@gmail\.com>, 2011_
+Entrée suspecte
+Copie du fichier de somme de contrôle
+Ceci n'est pas pris en charge par le moteur de gravure actuellement actif.
+Jamais mis à jour
+Colonne 1
+Options de l'outil de construction de projet
+Simulation de la copie du DVD de données
+Détails de l'élément
+Gravure et copie de disque
+libisofs a signalé une erreur lors de la création du répertoire « %s »
+Nouveau pré-réglage
+Il est aussi possible d'appliquer des effets vraiment sympathiques à vos photos. Il suffit de choisir parmi les différents effets disponibles et de cliquer sur le bouton correspondant pour l'appliquer à votre photo. Si vous choisissez plusieurs effets, ils sont tous appliqués à votre image. Par exemple, si vous sélectionnez Hulk et Miroir vertical, l'entrée de votre webcam sera modifiée afin d'avoir une teinte verte et d'être renversée. Pour désactiver tous les effets, cliquez simplement sur le bouton Aucun effet.
+Utilisez ce contrôle pour ajuster les tailles relatives des boîtes de lettres. Notez que sélectionner des valeurs élevées ralentit votre vitesse d'écriture.
+A_jouter au fichier
+Rechercher vos stations
+Identification sur {0}.
+Couleur de la note
+Vous pouvez appliquer des effets amusants à vos photos et vos vidéos :
+Arguments de l'initialisateur :
+Incrément minimal
+Activer le balayage
+Synchronisation de {0}
+GroupementMusic Library
+Une exception non gérée a été levée :
+Permet de choisir et de placer des cartes en cliquant
+Saturation de l'image
+Ignorer les mots plus court que
+Le disque qui se trouve actuellement dans le lecteur n'a pas pu être effacé.
+Impossible d'afficher l'aide de « %s »
+Fermer Anjuta proprement en libérant toutes les ressources (pour le débogage)
+Fichier ou répertoire à corriger
+ID de périphérique
+Auld Lang Syne
+Déplacer %s sur %s.
+Effectuer l'action
+Enregistrer le projet comme une liste au format texte
+deux de carreau
+deux de cœur
+Fichier introuvable
+Si vous n'enregistrez pas, les modifications des dernières {0} seront définitivement perdues.
+Impossible d'ouvrir « %s ».
+Nouveau panneau de messages
+Éditeur d'outils
+Le type défini par le greffon %s est manquant
+Commande terminée avec le signal %d
+La hauteur de la fenêtre principale
+Basculer en mode photo
+Déplacez le cinq de cœur à côté du quatre de cœur.
+Changer de branche/étiquette…
+Ouvrir avec :
+Dépôt à partir duquel tirer (pull) :
+Permet de graver des fichiers qui ne sont pas stockés localement
+Divise la piste sélectionnée
+Erreur lors de la lecture du fichier %s : %s
+Enlevez le roi de trèfle.
+_Nom de la cible :
+Conversion du fichier « %s »
+Album inconnu
+Certaines tâches ne sont pas encore terminées : veuillez patienter jusqu'à ce qu'elles se terminent.
+Ignorer les fichiers
+créer des fichiers images et graver des fichiers images existants,
+Visiter la page Last.fm de cet artiste
+Options d'exportation HTML :
+Autorisation sur le dépôt
+Impossible d'enregistrer %s : %s
+I_mporter %s
+_Sélectionner un fichier à ajouter...
+« %s » est un lien symbolique pointant vers un autre programme
+Sélectionner la configuration
+Pour analyser votre ordinateur, sélectionez le nom de votre ordinateur dans la liste Périphériques et emplacements. Tous les dossiers accessibles seront analysés. Il est normal de ne pas avoir les permissions d'analyser certains dossiers sur votre ordinateur.
+Déplacez une carte de la réserve vers un emplacement vide du tableau
+Enregistrer les fichiers ouverts avant la comparaison
+Afficher la boîte de dialogue À propos
+Programme d'aide pour les développeurs
+Initialisation du projet...
+Enlève tous les morceaux de la file d'attente de lecture
+Recherche rapide incorporée dans l'éditeur
+Télécharger les nouveaux épisodes
+Démarrer/arrêter l'enregistrement des événements
+Vorbis est un codec Open Source avec perte, qui fournit une haute qualité sonore pour une taille de fichier inférieure au MP3.
+Mes fichiers
+Déplacez le trois de pique à côté du deux de pique.
+Nom de groupe :
+Meilleur résultat du sauteur
+Bibliothèques partagées
+Redistributions restantes :
+Ajouter à la cible du projet :
+Modifie vos préférences personnelles
+Choisir une couleur
+Déplacez le deux de carreau à côté de l'as de carreau.
+Corriger les bogues générés par gcc 2.96
+élément de menu avec case à cocher
+Cible de la recherche
+Échec de l'ajout de service : %s
+Gravure en cours
+Lit l'élément suivant
+Enlevez les rois
+Marque les fichiers en conflit comme résolus
+Lire les morceaux au hasard, préférer les morceaux avec de bon scores
+au plus
+Ajoute une macro
+_Fichiers récents
+Préparation de la copie du disque audio
+Aucune action d'ouverture ou de visualisation n'est définie pour ce type de contenu
+Module GTK+ pour la prise en charge de la collection d'informations lors d'un arrêt brutal.
+_Vérifier le module
+Valeur limitée
+Sélectionne tous les messages dans le fil de discussion actuel
+Dernière révision :
+Grave la sélection de fichiers sur plusieurs médias
+Ogg Vorbis
+À partir du panneau à gauche de la fenêtre, recherchez les fichiers vidéos dans votre système de fichiers.
+En lien avec /desktop/gnome/interface/accessibility, cette clé est nécessaire pour activer l'infrastructure AT-SPI basée sur CORBA dans le cas où celle-ci a été déplacée. Sinon, cette clé est ignorée.
+Nouvelle boîte aux lettres « MH »...
+Information de version de l'assemblage
+Erreur lors du remplissage du fichier (%s)
+panneau divisible
+Renommer les fichiers et les dossiers en fonction des métadonnées
+Impossible de créer le fichier temporaire « %s » : %s
+Modifier les paramètres de couleur d’un appareil
+« %s » : type d'image disque inconnu
+Déplacez une carte vers un emplacement temporaire vide
+Convertir depuis
+%s sur la fondationreserveslot hint
+Indique si les livres doivent être groupés par langage dans l'interface
+Chemins des sources/destinations :
+Entier [%s..%s]
+Des options utilisées en ligne de commande sont incompatibles.
+Réanalyser le dossier de la bibliothèque musicale
+Réduire la saturation rend l'image moins colorée. Si les couleurs semblent trop accentuées, réduisez la saturation.
+Enregistre le journal Valgrind...
+Opérations de l'inspecteur
+_Plein écran
+Visiter la page de l'artiste sur Wikipédia
+Indique si Brasero doit filtrer les liens symboliques brisés. Si l'option est active, Brasero exclut les liens brisés.
+Division de la piste
+Le fichier {0} existe déjà
+_Tout copier
+Commande annulée par l'utilisateur
+Il n'est pas possible d'ajouter des répertoires sur des disques audio ou vidéo
+Charge le fichier de sous-titre
+Ajouter un type de saut
+Balsa : nouveau message
+Écriture de la piste %s
+Saisissez le second chemin.
+Importer vos bibliothèques depuis Amarok, Rhythmbox ou iTunes.
+Ne pas afficher les fichiers de sauvegarde
+l'élément %s n'appartient pas à un ensemble
+Consulter, rechercher et acheter de la musique dans la boutique MP3 Amazon.
+Utiliser les polices de caractères du système
+Ne pas agir de manière récursive
+Cette clé détermine le module GTK+ à charger pour gérer la collecte d'informations lors d'un arrêt brutal.
+Le dossier est introuvable.
+Affiche une astuce pour votre prochain coup
+Affiche l'aide de Aisleriot
+Mettre à jour l'inspecteur
+Générique (minimal)
+Arts et musique
+Non noté
+Bascule entre les fichiers d'en-tête et les fichiers de source C
+L'utilitaire « %s » n'est pas installé. Veuillez l'installer.
+Musique achetée
+Affiche des informations de débogage sur la sortie standard pour la bibliothèque de gravure de Brasero
+Opérations sur les fichiers de l'éditeur
+Les éléments « title », « name » et « link » doivent être présents à la ligne %d, colonne %d
+Le service de recherche est démarré
+Initialisation annulable non prise en charge
+Informations sur les fichiers _cibles
+Erreur : erreur de serveur (500)
+Brasero — Copie de disque
+Aucun profil disponible
+Remplace les options stockées--help-options
+Sélectionne le bloc de code où est situé le curseur
+Enregistrer automatiquement les fichiers
+Ce type de saut commence à l'intérieur, le premier temps devrait être un temps de vol.
+Enlevez le huit de cœur.
+Choisissez Son et vidéoGravure de disque Brasero.
+Il n'existe actuellement pas d'équipe établie pour cette langue. Consultez le Wiki du projet de traduction GNOME pour obtenir plus d'informations sur la manière de créer une nouvelle équipe de traduction.
+Si vous supprimer un élément, il sera définitivement perdu.
+Ouvrir les fichiers sélectionnés
+Choisissez un disque à graver
+Su_pprimer des étiquettes…
+portugais brésilien
+Utiliser un retardateur
+Ajout de la prise en charge de la compilation des bibliothèques partagées et statiques avec Libtool.
+Hauteur de la photo
+Ré_duire le texte
+%s min
+Le DVD est chiffré : veuillez installer libdvdcss version 1.2.x
+Délai avant que l'utilisateur n'appuie effectivement sur le bouton (ms)
+Définir le cadre actuel
+Échec de résolution du service « %s » de type « %s » dans le domaine « %s » : %s
+L'effacement détruit de manière permanente toutes les données sur le disque.
+Indique la taille et la position de la fenêtre principale
+Adapter le modèle de la langue à votre écriture.
+Projets récents
+Utiliser un fichier _MD5 pour vérifier le disque
+Le programme est déjà en cours d'exécution. Voulez-vous l'arrêter avant de relancer une nouvelle instance ?
+Brasero - %s (disque vidéo)
+Voulez-vous vraiment supprimer les tâches effectuées dans la catégorie « %s » ?
+Gestionnaire de greffons
+Sélectionnez un dépôt distant à partir duquel extraire.
+Préparation des pages pour l'impression
+Pistes les plus populaires de {0}
+neuf de trèfle
+Enlevez le joker noir.
+Impossible d'enregistrer %s
+Tri et fils de discussion
+Toujours de bas en haut
+Format natif : le format d'origine du fichier vidéo.
+Bouton 1
+Terminé sur un échec avec le code d'état %d
+Valeurs à observer
+Ajouter un podcast...
+Déplacez la reine de trèfle à côté du valet de trèfle.
+Supprimer définitivement
+_FermerLast updated
+Cliquez ici pour graver tous les morceaux possibles dans des pistes DTS
+Le projet est vide
+Afficher sur Last.fm
+Faites glisser ou copiez des fichiers ci-dessous pour les écrire sur le disque
+Permettre l'utilisation de DAO
+Démarrer et arrêter la lecture
+Affiche les évènements qui surviennent de sources et de types particuliers
+Enregistre ce projet dans un emplacement différent
+Largeur de la vidéo
+Marquer les conflits comme résolus
+Continuer le projet actuel modifié
+Ce fichier ne semble pas être une liste de lectureDisc Image
+Tous les fichiers du disque semblent intègres
+Ajouter un en-tête de page
+Pour remplir l'arrière-plan par une couleur ou un dégradé :
+Devenez un contributeur de Banshee
+Ignorer les fichiers cachés
+Vous n'êtes pas membre de cette équipe.
+- Analyseur d'utilisation des disques
+Répertoire du projet, fichier de sortie, etc.
+Pas de suggestion disponible
+Aucun niveau trouvé.
+Statut externe
+Git : fichier enlevé.
+Choisissez Ajouter un flux audio AC3 pour ajouter un flux Dolby Digital AC-3 au disque.
+Avec Brasero, vous pouvez :
+%Y/%m/%d %H:%M
+Nom de fichier Glade non valide
+Une liste d'URI des partitions à exclure de l'analyse.
+L'emplacement sélectionné pour accueillir l'image temporaire ne dispose pas de suffisamment d'espace libre pour l'image du disque (%ld Mio sont nécessaires)
+Arrêt de {0}
+Mettre en attente
+Couleur de la bordure :
+Aligner à gauche
+Bug Buddy n'a pas été capable de récupérer les informations concernant la version de GNOME que vous utilisez. Cela est certainement dû au fait que gnome-desktop n'est pas installé.
+Impossible d'ouvrir le fichier %s.
+Périphériques et emplacements
+Prise de photos et enregistrement de vidéos grâce à votre webcam avec effets graphiques rigolos
+Enregistrer le projet comme projet audio Brasero
+Enlever de l'inspecteur
+Détecte le nombre de battements par minute (BPM) de votre musique.
+neuf de pique
+Utiliser les polices de caractères par défaut du système.
+Voulez-vous continuer sans la compatibilité Windows complète ?
+Affiche les informations de version et quitte
+bengali (Inde)
+Livres désactivés
+Lire le _morceau
+Suggestion / Description de l'erreur :
+Commande personnalisée du débogueur
+Suspend l'exécution du programme
+Affiche les modifications introduites par ce commit
+Permet de consulter différentes propriétés de l'interface
+Dans la zone de texte, saisissez un nom pour identifier le disque. Ce nom apparaîtra comme nom du disque.
+Traduire les messages
+Identifiant du partage de musique
+Tous les podcasts ({0})
+Vitesse maximum
+Déplacez ~a sur le dix de cœur.
+Déplacez de la défausse vers la pioche
+Ce jeu ne peut fournir de suggestion.
+Message _précédent
+Implémente les interfaces du greffon
+La piste n'a pas été divisée.
+Largeur de la liste des canaux
+Mise à jour automatique des bibliothèques musique et vidéo.
+Effacement en cours
+élément de menu
+La taille des données dépasse la capacité du disque et vous devrez enlever des fichiers de la sélection dans le cas contraire. Cette option peut se révéler utile si vous utilisez des CD-R(W) de 90 ou 100 min. qui ne sont pas reconnus correctement et qui nécessitent donc l'option de gravure en surcapacité. Note : cette option peut provoquer des échecs de gravure.
+_Modifier les informations…
+Impossible de charger paramètres par défaut généraux et les fichiers de configuration : %s. Cela peux entraîner un comportement étrange ou une instabilité. Anjuta va se limiter à sa configuration interne.
+Modifie les préférences concernant cette source
+Crée un DVD vidéo ou un SVCD
+Ajoute un nouveau serveur distant DAAP
+Utiliser la technologie burnproof (diminue le risque d'échec)
+Afficher la boîte de dialogue d'ouverture d'emplacement
+Teste l'accessibilité élémentaire de l'interface graphique d'une application
+Couleur des messages
+Journal de débogage
+Activer l'interface Web pour la recherche sur l'ordinateur local
+Ne plus afficher ce message
+Subversion : mise à jour terminée.
+Déplacez ~a sur le joker noir.
+Enregistrer le son
+Déplacez le six de pique à côté du cinq de pique.
+C++ générique
+Bascule au document suivant
+Recherche dans les fichiers du projet
+Supprimer les étiquettes sélectionnées
+Il n'y a pas de suivi des anomalies dans le Bugzilla de GNOME pour cette application.
+Voulez-vous enregistrer les modifications avant la fermeture ?
+Une erreur est survenue durant l'effacement.
+protocole « %s » non pris en charge
+La taille du message POP3 %d est trop importante : %d Kio - non traités.
+Valeur MDI accessible
+Le nombre maximum de résultats a été atteint.
+Taille du fichier
+Incohérence de type
+_Importer une session
+Crée une copie 1:1 d'un CD/DVD
+En utilisant gstreamer-properties mentionné à la question précédente, essayez de basculer de X Window System (sans Xv) vers X Window System (X11/XShm/Xv) ou vice-versa. Si cela ne fonctionne toujours pas, saisissez la commande cheese --verbose dans un terminal et copiez le résultat dans un rapport d'anomalie de notre Outil de suivi d'anomalies.
+Débit constant
+Ajouter des chemins de sources...
+Impossible d'afficher l'aide. Vérifiez que le paquet de documentation d'Anjuta est installé. Le paquet peut être téléchargé depuis http://anjuta.org.
+L'image est déplacée vers la corbeille et supprimée de votre flux photo. Elle n'est pas effacée de votre ordinateur. Pour la supprimer de la corbeille, vous devez vider votre corbeille.
+Erreur lors de l'initialisation de la prise en charge des périphériques MTP
+Crée une nouvelle liste de lecture intelligente
+GNOME est développé par les personnes suivantes :
+La correction d'erreurs essaie de contourner les problèmes de lecture liés à l'état de surface du disque, tels que les rayures. L'inconvénient est qu'elle ralentit significativement l'importation.
+Problème lors de l'analyse de la liste de lecture
+Terminer l'authentification
+Type d'accès : fichier local
+Aucune licence
+Manuel du moniteur d'accessibilité du clavier
+_Titre du morceau :
+_Supprimer le signet
+Automatique sur arrêt
+l'élément actionnable %s n'est pas sélectionnable ou ne peut obtenir le focus
+Erreur lors de l'obtention de la durée
+Balsa ne peut ouvrir votre boîte aux lettres « %s ».
+Sélectionner la pochette de l'album
+_Annuler le chargement
+Jeu de couleurs personnalisé :
+Nom du fichier actuellement édité
+Temps d'analyse en mode menu (0 pour aucune analyse)
+Composant graphique introuvable : %s
+Sélection de texte de l'éditeurActionGroupEditorInsert", N_("Editor text insertions
+Commandes contextuelles de construction
+Lien symbolique récursif
+Mettre à la ligne les longues lignes pour qu'elles tiennent sur le papier
+Gérer les _extensions
+Chiffrer les messages par défaut
+Le nom d'utilisateur de Last.fm n'est pas valide.
+GénérationColor"), "black
+Le groupe n'existe pas
+C'est ici que vous pouvez comparer la prise en charge des langues dans n'importe quel groupe de versions.
+Télécharger l'achat MP3 Amazon
+Copie, grave et efface les CD
+Chargement de l'exécutable :
+Veuillez corriger la configuration
+La couche accessible de cet objet
+Le système n'est pas assez rapide pour graver un disque à cette vitesse. Essayez avec une vitesse inférieure
+Gravure du (S)VCD
+Le sujet « {0} » existe déjà. Choisissez un autre nom.
+Sélectionner l'emplacement à importer
+Rechercher dans :
+Modifier les applications affichées dans le menu principal
+Impossible de récupérer des informations sur la piste
+_%d. %srecent menu label
+Définit tous les numéros de disque et le nombre à ces valeurs
+Parcourt les différentes méthodes de l'élément accessible actuel
+La lecture de %s a échoué : %s
+Déduire à partir du type
+Largeur du rectangle à enregistrer
+Déplacez le valet de pique à côté du dix de pique.
+Le programme « %s » ne possède pas les droits en exécution.
+La signature n'a pas pu être vérifiée car la clé est manquante.
+Nouveau disque dans le graveur contenant le disque source
+Diminue la taille du texte
+Assistance C++/Java
+Numéro du disque
+En gravant un disque avec une vitesse plus grande que celle prise en charge, le disque produit peut être illisible. Utilisez une vitesse de gravure plus faible pour réduire la probabilité d'une erreur.
+Avance sans entrer dans la fonction
+Supprimer de la _bibliothèque
+Fichier pour synchroniser le profil XML
+_Afficher Banshee dans le « sound menu »
+Un projet générique Java utilisant la gestion de projet par automake
+une pile de fondation vide
+Il permet d'utiliser ownCloud comme emplacement de stockage et éditeur en ligne.
+Voir les caractères de fins de ligne
+_Annuler le commit…
+Lire l'album
+Brasero - Copie du disque (%i %% effectué)
+Lire l'_album
+Supprimer cette pochette d'album
+Division de la piste en parties de longueur fixe
+URI de l'emplacement le plus affiché
+Vous n'avez pas les droits requis pour écrire à cet emplacement
+Enlevez le quatre de trèfle.
+Copie de CD et de DVD
+Le type de service pour celui sélectionné
+Console interactive pour manipuler l'élément accessible actuellement sélectionné
+Liste de lecture Shoutcast version 2 (*.pls)
+Types de média préférés
+Cliquez ici pour sélectionner une _image disque
+Impossible de créer le greffon « decodebin »
+Brasero — Nouveau projet de données
+Enlevez le neuf de cœur.
+Créer un nouveau projet
+Crée un nouveau dossier vide
+Banshee ne connait pas le format de cette version d'iTunes. L'importation peut ne pas fonctionner comme prévu, ou ne pas fonctionner du tout. Voulez vous essayer d'importer quand même ?
+Grave le projet indiqué et le supprime. Cette option est surtout utile pour l'intégration dans d'autres applications.
+Nom de service invalide
+Active ou désactive le signet positionné sur la ligne actuelle
+Brasero - Copie du DVD (%i %% effectué)
+Message suivant
+Composants manquants
+Un projet générique wxWidgets
+Écriture de la « cue sheet »
+À propos d'Anjuta
+150 %
+_Fermer le projet
+Les fichiers suivants sont référencés dans POTFILES.in ou dans POTFILES.skip, mais ils n'existent pas : %s
+Manches progressives
+Nom du fichier actuellement édité, sans extension
+Récupérer (fetch) les branches distantes après création
+Position Y de la fenêtre de l'assistant
+Soumettre lors des fusions fast-forward
+%s (défaut)
+Rechercher le suivant
+Git : commit terminé.
+Regardez des deux côtés avant de traverser la rue
+Afficher le code source
+Se _désabonner
+Voulez-vous vraiment supprimer le module « %s » et tous ses paquets associés ?
+CVS : état
+Importe ce CD audio dans la bibliothèque
+Bits par échantillon :
+Enlevez le huit de pique.
+Vérifie l'intégrité des données de ce CD ou DVD
+Fermer cette fenêtre de notificationDisc Image
+Répertoire de Podcast du guide Miro
+Sélectionnez si vous voulez seulement chercher parmi les fichiers vidéo
+_Arrêter l'exécution
+Une application simple à utiliser pour la gravure de CD/DVD
+Suivre les descripteurs de fichiers ouverts
+Ouvre un projet audio et ajoute les URI indiqués dans la ligne de commande
+Envoyer par _courriel
+Pour diviser la piste, cliquez sur Segmenter. Les segments sont listés dans le tableau Aperçu des segments.
+Écriture de l'en-tête
+Début : %dEnd
+Brasero - Copie du disque
+La création du nouveau projet a échoué.
+Si vous les importez, vous pourrez les voir et les utiliser après que la sélection de fichiers actuelle aura été gravée.
+Redimensionner les photos
+Position fixe définie
+Crée un DVD vidéo ou un SVCD lisible sur des lecteurs de salon
+Est utilisé pour notifier que la description de la colonne du tableau a changé
+_Vérifier l'intégrité...
+Définit le programme actuel, ses paramètres, etc.
+Nouveaux sujets (plusieurs)
+L'effacement complet est plus lent mais plus sécurisé car il efface toutes traces des données précédentes. Les données supprimées sur un support « effacé rapidement » peuvent être récupérées avec des outils particuliers.
+Efface un disque
+Position atteinte
+Stockage local
+Administrateurs de %s
+L'application n'accepte pas de document en ligne de commande
+Nombre de critiques
+Copyright © 2005-2008 Novell, Inc. Copyright © 2005 Aaron Bockover
+Ajoute les chansons sélectionnées après la piste, l'album ou l'artiste en cours de lecture
+Réanalyser la bibliothèque musicale
+Liste de tous les modules disposant de statistiques.
+Modifier le test sélectionné
+Détection automatique
+Filtrage de %s
+Crée des images de disque appropriées pour les SVCD
+Somme de contrôle de fichier
+Révision incorrecte :
+Enregistrer tous les fichiers
+Ce partage de musique est hébergé par iTunes® 7
+Un fichier n'a pas pu être créé à l'emplacement indiqué pour les fichiers temporaires
+La catégorie « %s » existe déjà dans la base de données. Voulez-vous enregistrer votre modification dans la catégorie déjà existante ?
+Qu'est ce qu'un effacement rapide ?
+Carte de base : As
+Graver _maintenant
+Veuillez patienter pendant que votre ancienne base de données migre vers le nouveau format.
+Insérer une ébauche de gestionnaire
+Graver une i_mage
+Distribuez une rangée
+Impossible de lire le carnet d'adresses
+Le nom du projet ne doit pas contenir d'espaces car il sera utilisé comme nom de cible pour la construction du projet (les exécutables, les bibliothèques, etc.)
+Supprimer les tâches aprèsPurge items after %d days
+Déplacez le neuf de cœur à côté du huit de cœur.
+Répertoire : %s
+Organiser vos livres audio, conférences, etc.
+Grave le contenu de l'URI burn://
+_Activer la correction ReplayGain
+Dernier actualisé :
+Pour vérifier l'intégrité d'un disque :
+Veuillez choisir un autre CD ou DVD ou insérez-en un nouveau.
+Merci de nous aider à améliorer notre logiciel. Veuillez remplir vos suggestions/information d'erreurs pour l'application %s. Une adresse électronique valide est requise. Cela permettra aux développeurs de vous contacter pour plus d'informations si cela s'avère nécessaire.
+Le fichier source ne sera pas supprimé du système de fichiers.
+/Trier les objets/Par défaut/comme _insérés
+Choisissez une image disque à graver
+Téléchargements, résumé :
+Manuel de Brasero v2.2
+Ce ne semble pas être une image ISO valide
+Options d'un projet audio
+Erreur lors de la sauvegarde du fichier « %s » : %s
+Journal résumé
+Déclenche le flash avant la prise d'une photo
+sept de trèfle
+Importer du contenu multimédia dans la bibliothèque
+Affiche cette aide
+Nom de fichier sélectionné dans le greffon gestionnaire de projets
+Le projet n'a pas été enregistré.
+Erreur : une identité de ce nom existe déjà
+_Verrouiller la disposition de la zone d'ancrage
+Définir Banshee comme lecteur de musique par défaut ?
+Ajoute un signet
+Propriétés du morceau
+_Liste des segments qui vont être créés :
+Une erreur inconnue est survenue. Ceci est certainement dû à un problème avec bug-buddy. Veuillez signaler ce problème manuellement dans bugzilla.gnome.org
+Réinitialiser/annuler (revert)
+Disque et numéro
+Un projet générique GNOME
+Boîte aux lettres M_H locale...
+espace vide dans le tableau
+{0} ({1}:{2:00})
+Vous devriez avoir reçu un exemplaire de la Licence Publique Générale GNU avec ce programme ; si ce n'est pas le cas, consultez .
+Ignorer les répertoires cachés
+Sélectionne le style de contrôle
+Brasero va simuler la gravure et, en cas de succès, démarrer la gravure réelle après une pause de 10 secondes
+%s audio et de données dans %s
+Le rôle accessible de cet objet
+Déplacez ~a sur le trois de carreau.
+Par a_rtiste correspondant
+À jour
+Cet élément ne peut pas être lancé
+Ajouter un nouveau canal
+Consulter Archive.org
+Voulez-vous vraiment ajouter « %s » à la sélection et utiliser la troisième version du standard ISO9660 afin de le prendre en charge ?
+Affiche des informations sur les fichiers en cours de débogage
+Détails des macros :
+Messages de commit précédents :
+Vous êtes « OUT », démarrez dès que vous êtes prêt !
+Pas de suggestion disponible pour le moment
+Police de caractères
+Jeu de tuiles
+Coordonnée Y par défaut pour cette application.
+Aucun effet
+Gestion du projet basée sur Autotools
+Impossible de charger %s. Cela signifie généralement que votre installation est corrompue. Le message d'erreur à l'origine était : %s
+Définit automatiquement tous les numéros de piste et le nombre
+Le fichier « %s » a été supprimé. Valider et le fermer ?
+_Nouvelle fenêtre
+Si vous voulez effacer rapidement le disque, sélectionnez l'option Effacement rapide (pour plus d'informations, voir ).
+Vous êtes « IN », veuillez quitter la plateforme, vous préparer au départ et appuyer sur le bouton « accepter » !
+Morceaux récemment appréciés
+Vérification de l'intégrité du fichier
+Synchronise vos vidéos avec un appareil N800
+Voulez-vous vraiment transmettre un message de journal vide ?
+Vérifier la signature
+Déclaration de repère
+Marquer comme payée
+Version du serveur : %s ; nom d'hôte : %s
+Options destinées au développement et au débogage
+Afficher les notes et les collections dans une grille
+Largeur par défaut pour l'aperçu des images.
+Remettez les cartes de la défausse vers la pioche
+Liste actuelle des profils
+Démarre en mode large
+Aucun fichier présélectionné sélectionné.
+Choisissez les fichiers ou répertoires pour le commit :
+_Modifier les informations du morceau
+J'ai un Mac avec iSight et une carte graphique ATI et les couleurs sont bizarres.
+Réinitialiser l'emplacement à sa valeur par défaut ({0})
+Lecture en cours
+Saisissez un commit.
+Temps d'analyse (chaque direction), en ms
+Impossible de créer le greffon decodebin2
+%s, %d %% réalisé
+Projet GTK+ simple
+Sélectionner des sources…
+Masquer les tâches _effectuées
+CVS : suppression de fichiers/répertoires
+Git : récupération (fetch) terminée.
+Nouvelles et affaires publiques
+Apprenez à utiliser les méthodes avancées pour faire des recherches dans votre bibliothèque multimédia
+_Format natif
+Correspondance max.
+Distant sélectionné :
+Déplacez ~a sur le six de trèfle.
+Action de recherche :
+Chinois simplifié
